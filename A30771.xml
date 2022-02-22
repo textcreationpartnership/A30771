@@ -1,0 +1,1106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The several ways of resolving faith in the Roman and Reformed Churches with the authors impartial thoughts upon each of them, and his own opinion at length shewn, wherein the rule of faith doth consist ...</title>
+            <author>Banckes, Matthew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 249 KB of XML-encoded text transcribed from 110 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30771</idno>
+            <idno type="STC">Wing B632</idno>
+            <idno type="STC">ESTC R20075</idno>
+            <idno type="EEBO-CITATION">12608710</idno>
+            <idno type="OCLC">ocm 12608710</idno>
+            <idno type="VID">64301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 342:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The several ways of resolving faith in the Roman and Reformed Churches with the authors impartial thoughts upon each of them, and his own opinion at length shewn, wherein the rule of faith doth consist ...</title>
+                  <author>Banckes, Matthew.</author>
+               </titleStmt>
+               <extent>[23], 197 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Stephen Bulkley, and are to be sold by Richard Lambart ...,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Matthew Banckes. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Errata: p. [22].</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rule of faith --  Early works to 1800.</term>
+               <term>Schism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64301:1" rendition="simple:additions"/>
+            <pb facs="tcp:64301:1" rendition="simple:additions"/>
+            <p>THE SEVERAL WAYS Of Reſolving FAITH, IN THE ROMAN and REFORMED CHURCHES. With the Authors impartial thoughts upon each of them. And his own Opinion at length ſhewn, wherein the Rule of Faith doth conſiſt. Which clears upon rational Grounds the Church of <hi>England</hi> from crimi<g ref="char:EOLhyphen"/>nal Schiſm and laies the Cauſe of the ſeparation upon the <hi>Roman.</hi>
+            </p>
+            <p>
+               <hi>YORK.</hi> Printed by <hi>Stephen Bulkley,</hi> and are to be ſold by <hi>Richard Lambart</hi> Book-ſeller in the Minſter-yard. 1677.</p>
+            <pb facs="tcp:64301:2"/>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:64301:2" rendition="simple:additions"/>
+            <head>THE PUBLISHER, To the Pious and Intelligent READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F, Reader, thou be in<g ref="char:EOLhyphen"/>deed ſo qualified, as the ſtyle I give thee, imports, the following Treatiſe will, I am confident, find a very gratefull acceptance with thee. For as the Subject of it's Diſcourſe is of higheſt Conſequence, and ſo eſteem'd by all who have a greater value for the Truth of Chriſtianity, then for the Concern of ſecular Intereſts and Enjoyments; ſo will the handling of it be, with that impartiality, ſin<g ref="char:EOLhyphen"/>cerity, and ſeriouſneſs ſeen perform'd,
+<pb facs="tcp:64301:3"/> that thou'lt eaſily own it to be a Tract wholly deſign'd for conviction and ſatisfaction, not at all for con<g ref="char:EOLhyphen"/>tention or oſtentation. This, 'tis true, makes it appear in a plain and homely dreſs, the Author having purpoſely declin'd Rhetoricall Orna<g ref="char:EOLhyphen"/>ments as fitter for an eloquent in<g ref="char:EOLhyphen"/>ſinuating Harangue, then for a con<g ref="char:EOLhyphen"/>troverſiall ſtrict Diſcourſe, whoſe aime and intent ſhould not be to pleaſe the Phanſie with gay and emp<g ref="char:EOLhyphen"/>ty appearences, but to fix the Un<g ref="char:EOLhyphen"/>derſtanding with plain and ſolid Truths. Whereunto how far this ſmall Piece in what it treats of, is conducible, I ſhall wholly leave to thy own impartiall thoughts to judge. Permit me yet (which with modeſty enough, I may crave) to uſe the freedome to tell thee, that the Way the Author takes for effecting his de<g ref="char:EOLhyphen"/>ſire (which is to be confirm'd upon ſure Grounds, What the Means in<g ref="char:EOLhyphen"/>ſtituted
+<pb facs="tcp:64301:3"/> by God, for attaining to the certain knowledge of Chriſts Do<g ref="char:EOLhyphen"/>ctrin be) is ſuch, that nothing but very calumny can accuſe him of any ſi<g ref="char:EOLhyphen"/>niſter or partiall proceeding. This al<g ref="char:EOLhyphen"/>though a Motive materiall for recom<g ref="char:EOLhyphen"/>mending the peruſall of his Book, eſpecially conſidering how polemick Diſputes are too frequently mannag'd, yet was my apprehenſion of the ſoundneſs of the Diſcourſe it ſelf, and of the great aſſiſtance it brings to the rationall defence of the truly Proteſtant Profeſſion (but not of whatſoever is ſo call'd by every Opinioniſt) the principall Inducement that mov'd me (with my friends per<g ref="char:EOLhyphen"/>miſſion) to publiſh it. I ſpeak not this (Courteous Reader) to foreſtall in the leaſt thy Judgement, but re<g ref="char:EOLhyphen"/>mit thee to thy full liberty; and the rather, becauſe to do otherwiſe, were to offer violence to the nature of the Treatiſe it ſelfe, whoſe entire
+<pb facs="tcp:64301:4"/> complexion, in the whole and every part thereof, is ingenuous and free, looking on whatſoever is within it's proſpect with the moſt equall eye imaginable, and yet paſſing over no<g ref="char:EOLhyphen"/>thing of moment without a due in<g ref="char:EOLhyphen"/>ſpection of it, as by an indifferent view thereof thou wilt eaſily per<g ref="char:EOLhyphen"/>ceive. Farewell.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:64301:4"/>
+            <head>The Contents.</head>
+            <p>
+               <hi>SEction 1.</hi> There is a Rule of Chriſtian Faith, or a Way whereby to come to the certain knowledge of Chriſts Doctrine, inſtituted by God. Three different Opinions among the Learned of the <hi>Roman</hi> Religion, where that Way is to be found; or wherein the Rule of Faith (as 'tis called by Controvertiſts) doth con<g ref="char:EOLhyphen"/>ſiſt.</p>
+            <p>
+               <hi>Sect. 2.</hi> The Ground of the
+<pb facs="tcp:64301:5"/> firſt Opinion of the <hi>Romaniſts</hi> (which places the Rule of Faith in the Definition of a General Council confirmed by the Pope) being this, That a General Council confirm'd by the Pope, cannot erre in Mat<g ref="char:EOLhyphen"/>ters of Religion, ſeriouſly con<g ref="char:EOLhyphen"/>ſider'd of, and thought to be erroneous.</p>
+            <p>
+               <hi>Sect. 3.</hi> The Reaſon of the ſecond Opinion among the <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Party, (namely, That the Definition of a General Coun<g ref="char:EOLhyphen"/>cil conciliarly proceeding with, or without the Pope, is the
+<pb facs="tcp:64301:5"/> Rule of Faith) held to be, That a General Council conciliarly acting is infallible in Catholick Points of Faith, taken into con<g ref="char:EOLhyphen"/>ſideration; and it's double meaning explain'd, the truth of which in one of them only is here brought to the Teſt; the certainty of it, in it's other ſenſe, being left to be examin'd in it's due place afterward</p>
+            <p>
+               <hi>Sect. 4.</hi> The Foundation, whereon we find the third Opi<g ref="char:EOLhyphen"/>nion of the <hi>Romaniſts</hi> (to wit, that Oral Tradition, or the living Voice of the Preſent
+<pb facs="tcp:64301:6"/> Church in every Age is the Rule of Faith) to be built, <hi>viz.</hi> That Tradition is in Articles of Faith perpetually the ſame in all Ages, well div'd into, and more largely (becauſe of the preſent great <hi>vogue</hi> it has with the learned of the Romiſh Pro<g ref="char:EOLhyphen"/>feſſion here in <hi>England)</hi> inſi<g ref="char:EOLhyphen"/>ſted on, then the Grounds of both the two former Opinions are.</p>
+            <p>
+               <hi>Sect. 5.</hi> The Controvertiſts of the Reformed Church, make Scripture the Rule of Faith. Two main different Opinions,
+<pb facs="tcp:64301:6"/> notwithſtanding in what ſenſe it is ſo held to be. The former Aſſertion, <hi>viz.</hi> That the Scri<g ref="char:EOLhyphen"/>pture is clear to every under<g ref="char:EOLhyphen"/>ſtanding illuminated by the Holy Ghoſt, in all thoſe things which are neceſſary to ſal<g ref="char:EOLhyphen"/>vation, throughly inſpected and eſteem'd to be more plauſi<g ref="char:EOLhyphen"/>ble then ſound. A Sect, that holds private inſpiration of the Spirit of God, abſolutely neceſ<g ref="char:EOLhyphen"/>ſary, as well for knowing, as underſtanding the Word of God. Another ſort of People, who talk of a Light within
+<pb facs="tcp:64301:7"/> them, to be their ſole Guide in Matters of Belief and Pra<g ref="char:EOLhyphen"/>ctiſe. Both theſe Pretenſions fairly diſcuſs'd, and found to be Deluſions</p>
+            <p>
+               <hi>Sect. 6.</hi> The other Aſſertion which ſome of the Reformed hold, <hi>viz.</hi> That all things ne<g ref="char:EOLhyphen"/>ceſſary to Salvation, are clear in Scripture to every under<g ref="char:EOLhyphen"/>ſtanding, impartially reflected on, and Reaſons given why 'tis thought to be rather popular and pleaſing, then ſolid and ſa<g ref="char:EOLhyphen"/>tisfactory.</p>
+            <p>
+               <hi>Sect. 7.</hi> Whether the Rule
+<pb facs="tcp:64301:7"/> of Faith affords infallible, or but moral certitude of Chriſts Doctrin. Whether we may not now in our days have as great certainty there<g ref="char:EOLhyphen"/>of, as the Diſciples of the Apoſtles had. And whether the like certainty which they had be not enough for the Church of the preſent and future Ages.</p>
+            <p>
+               <hi>Sect. 8.</hi> By what Means the knowledge of a Matter of Fact (ſuch as the preach<g ref="char:EOLhyphen"/>ing of the Goſpel by Chriſt and His Apoſtles was) may
+<pb facs="tcp:64301:8"/> be perpetuated. An examen of the force of the <hi>Roma<g ref="char:EOLhyphen"/>niſts</hi> main Argument where<g ref="char:EOLhyphen"/>by they endeavour to ſhew, that Scripture cannot be the Rule of Faith. Whe<g ref="char:EOLhyphen"/>ther the Scripture be not as intelligent in Points of Faith as Tradition or the Living voice of the Church is.</p>
+            <p>
+               <hi>Sect. 9.</hi> What the Pro<g ref="char:EOLhyphen"/>perties of the Rule of Faith be, and whether they agree to Holy Scripture.</p>
+            <pb facs="tcp:64301:8"/>
+            <p> 
+               <hi>Sect. 10.</hi> An Enqui<g ref="char:EOLhyphen"/>ry, Whether Chriſts Do<g ref="char:EOLhyphen"/>ctrine has been practically convey'd without intermiſ<g ref="char:EOLhyphen"/>ſion from the days of the Apoſtles, unto ours. And of what validity four grand Arguments urg'd againſt the indefectibility of Traditi<g ref="char:EOLhyphen"/>on, are.</p>
+            <p>
+               <hi>Sect. 11.</hi> What rational aſſurance we have, That Scripture is not corrupted in Neceſſaries to Salvati<g ref="char:EOLhyphen"/>on. The way to know what
+<pb facs="tcp:64301:9"/> Things have been ever Orally taught. Two Rea<g ref="char:EOLhyphen"/>ſons given, why Tradition, though it be of an indefe<g ref="char:EOLhyphen"/>ctible Nature, ſhould not be the Rule of Faith. Whether a Fundamental Error, can ever obtain a ſetled quiet poſſeſſion in the viſible Church? An offer from Reaſon for the im<g ref="char:EOLhyphen"/>poſſibility of the thing. Er<g ref="char:EOLhyphen"/>rors not-Fundamental, may overſpread the Church, or, at leaſt, a great and conſi<g ref="char:EOLhyphen"/>derable
+<pb facs="tcp:64301:9"/> part of it, and why? Several Inſtances of ſuch Errors in the <hi>Roman</hi> Church.</p>
+            <p>
+               <hi>Sect. 12.</hi> That the Ho<g ref="char:EOLhyphen"/>ly Scripture, or Written Word of God, is the Rule of Faith. That Tradition is a neceſſary means where<g ref="char:EOLhyphen"/>by to attain to the certain knowledge thereof. That the Multitude, or weakeſt ſort of Chriſtians, are not able of themſelves, with<g ref="char:EOLhyphen"/>out the help of others, to
+<pb facs="tcp:64301:10"/> reſolve Faith aright, or be rationally aſſur'd, what the Doctrine of Salvation is.</p>
+            <p>
+               <hi>Sect. 13.</hi> The harm that may ariſe to the Church from the belief of an Er<g ref="char:EOLhyphen"/>ror not-Fundamental, to be an Article of Faith. The true ſtating of the diffe<g ref="char:EOLhyphen"/>rence between the Church of <hi>England,</hi> and the Church of <hi>Rome.</hi> The Church of <hi>England</hi> clear'd from the guilt of Schiſm, and the <hi>Roman</hi> juſtly
+<pb facs="tcp:64301:10"/> blam'd for being Cauſe of the ſeparation. That the joynt Concurrence of Scri<g ref="char:EOLhyphen"/>pture and Oral Tradition, (or the practical Delivery of Chriſts Doctrine) was recommended by the Bleſ<g ref="char:EOLhyphen"/>ſed Apoſtles to the Church; the Reſtauration of which Concurrence, ('tis humbly conceiv'd) would be a firm Foundation for re-uniting diſſenting Chriſtians in Mat<g ref="char:EOLhyphen"/>ters of Religion; and the Continuance of it a laſting
+<pb facs="tcp:64301:11"/> Means for perpetuating Chriſtianity in i'ts Ancient native Purity.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:64301:11"/>
+            <head>Errata.</head>
+            <p>In the Contents, Sect. 6. l. 2. read for Re<g ref="char:EOLhyphen"/>formed, Reformation. Sect. 8. l. 8. for intelli<g ref="char:EOLhyphen"/>gent intelligible.</p>
+            <p>Pag. 9. l. 15. r. but impious. p. 17. l. laſt (viz. p. 31. l. 1. r. Canonical Scripture. p. 32. l. 12. 13. r. Church diffuſive. p. 40 l. 16. r. Efforts p. 47. l. 6. r. formerly. p. 62. l. 5, 6. r. to be perform'd, actually. p. 72. l. 7. r. ſo often as. p. 82 l. 2. r. as prone as poſſible. p. 91. l. 17. blot out if. p- 97. l. 10. r. die. l. 11. r. ſedet. p. 99. l. 1. r. de. ſcendit. l. 13. r obtemperantibus. p. 100. l. 1. r. Act. 4. 12. p. 101. l. 11. r. naſcetur. p. 106. l. 3. r. deſcendet. p. 112. l. 15. r. in Scripture, as. l. 16. Traditioniſt. p. 113. l. 5 r. Traditioniſt. p. 121. l. 18. r. aſcenſion. p. 122. l. 2. r. aſcenſion p. 126, 127 r. of what validity Four—are? p. 128. l. 3. r. thus; l. 14. thoſe p 141. l 15, 16. r. in the Creed there ſet forth. l. 18 and that alſo. p. 142. l. 23. r. or it is not; p. 143. l. 14. r. Latins. l. 19. Lombard. p. 144. l. 4, 5. r. ineandem nobiſcum. l. 8. unam eandem<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> fore ſententiam. p. 145. l. 1. r. Quaeſt. 36. p. 146. l. 5. r. diſertè dicant. p. 154. l. 20. r. as an Article. p. 158. l. 7. r. ſuperfluous. p. 161. l. 9. ſoever there be. p. 162. l. 10. r. and not to be extended. p. 170. l. 2. r. in ſuch caſe. p. 171. l. 16. r. ſpilt. p. 179. l. 19. r. what they teach. p. 183. l. 4. r. Diſtinction. p. 192. l. 10. r. Lawd. p. 195. l. 13. r. Polemical</p>
+            <p>The reſt are more obvious literal miſtakes, in appearences, yeild, adhear, oblid'g, Antichriſt, Writting, all be it, vulger, with ſome ſmall cha<g ref="char:EOLhyphen"/>racters for great, and great for ſmall.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:64301:12"/>
+            <pb facs="tcp:64301:12"/>
+            <head>The ſeveral Ways of reſolving <hi>Faith</hi> in the <hi>Roman</hi> and Reformed Churches.</head>
+            <p>With the Authors impartial thoughts upon each of them.</p>
+            <p>And his own Opinion at length ſhown, wherein the Rule of <hi>Faith</hi> doth conſiſt.</p>
+            <p>Which clears upon rational Grounds the Church of <hi>England</hi> from criminal Schiſme, and lays the Cauſe of the ſeparation upon the <hi>Roman.</hi>
+            </p>
+            <div n="1" type="section">
+               <head>SECT. I. <hi>There is a Rule of Faith inſtituted by God. Three different Opinions among the Learned of the</hi> Roman <hi>Religion, wherein that Rule doth conſiſt.</hi>
+               </head>
+               <p>SInce it was the <hi>Almighties</hi> good pleaſure to create <hi>Man</hi> a <hi>reaſona<g ref="char:EOLhyphen"/>ble</hi>
+                  <pb facs="tcp:64301:13"/> Creature, it became his <hi>Divine Wiſdome</hi> and <hi>Goodneſs,</hi> not only to ordain an <hi>End</hi> convenient for <hi>Him,</hi> with <hi>Means</hi> likewiſe available there<g ref="char:EOLhyphen"/>to; but alſo to conſtitute a <hi>Way</hi> by which he might come to the <hi>certain</hi> Knowledge of both: for in vain would the two former have been in<g ref="char:EOLhyphen"/>ſtituted without the laſt, when by this alone, both the other were to be made <hi>known</hi> unto <hi>Him.</hi>
+               </p>
+               <p>That therefore there is a <hi>Way</hi> or<g ref="char:EOLhyphen"/>dain'd by <hi>God,</hi> whereby to under<g ref="char:EOLhyphen"/>ſtand <hi>aright, Mans Chief End,</hi> and the <hi>proper Means</hi> available to it, re<g ref="char:EOLhyphen"/>mains without diſpute. Yet ſuch not<g ref="char:EOLhyphen"/>withſtanding is the difference and diſ<g ref="char:EOLhyphen"/>agreement amongſt divers men of greateſt Wit and Learning about it, that through their ſubtil Arguments, and eager Zeal to defend every one his eſpous'd Opinion, not a few ſober well minded <hi>Chriſtians</hi> are brought into a Labyrinth of intricate diffi<g ref="char:EOLhyphen"/>culties
+<pb n="3" facs="tcp:64301:13"/> and doubts <hi>what</hi> they ought to beleeve; whilſt the <hi>Controvertiſts</hi> in <hi>Religion,</hi> though in general they acknowledge, that the <hi>Goſpel</hi> of <hi>Chriſt</hi> publiſhed to the World, declares wherein Mans <hi>Felicity,</hi> and the <hi>Means</hi> thereof conſiſt, yet are at perpetual diſcord <hi>what</hi> the particu<g ref="char:EOLhyphen"/>lar <hi>Doctrines</hi> neceſſary to the Sal<g ref="char:EOLhyphen"/>vation of <hi>Mankind,</hi> contain'd in that <hi>Goſpel</hi> or <hi>Revelation,</hi> be; and that, becauſe they cannot agree where the <hi>Way</hi> which leads to the <hi>certain</hi> know<g ref="char:EOLhyphen"/>ledge of <hi>Chriſts Doctrine</hi> is to be found; or, as for brevity 'tis phras'd, what the <hi>Rule</hi> of <hi>Faith</hi> is.</p>
+               <p>This gave the occaſion of my un<g ref="char:EOLhyphen"/>dertaking the following Inquirie; the deſigne whereof, is to endeavour to the utmoſt of my power the gain<g ref="char:EOLhyphen"/>ing a well-grounded <hi>ſatisfaction</hi> in a matter of ſo great Concern, as the <hi>Rule of Faith</hi> is to be truely known. For the compaſſing of which longing
+<pb n="4" facs="tcp:64301:14"/> deſire of my heart, I judge it the beſt expedient, I know of, to take an <hi>equal</hi> and <hi>impartial</hi> view of the <hi>dif<g ref="char:EOLhyphen"/>fering Opinions</hi> about it; that either, by comparing them together, I may be enabled to make a rational choice of ſome <hi>one</hi> before the reſt; or els to gather from the whole <hi>diſquiſition</hi> that <hi>ſatisfaction</hi> is not to be expected without a <hi>further</hi> enquiry to be made <hi>wherein</hi> the Rule of <hi>Chriſtian Faith</hi> doth really conſiſt.</p>
+               <p>The firſt <hi>difference</hi> worthy of no<g ref="char:EOLhyphen"/>tice about the <hi>Rule of Faith,</hi> or the <hi>Way</hi> which guides and directs to the clear knowledge of <hi>Chriſts Doctrine,</hi> is concerning the nature of the <hi>aſſu<g ref="char:EOLhyphen"/>rance</hi> which it is to afford; ſome affirming, that it ought to give <hi>in<g ref="char:EOLhyphen"/>fallible</hi> certainty: whilſts others ſay, that it needs only yield a <hi>Moral</hi> cer<g ref="char:EOLhyphen"/>titude, or ſuch an aſſurance, as is ſufficient to remove <hi>actual doubting,</hi> but not which renders it <hi>impoſſible</hi>
+                  <pb n="5" facs="tcp:64301:14"/> to be deceiv'd in <hi>Matters</hi> of <hi>Faith.</hi>
+               </p>
+               <p>Thoſe that hold the <hi>Rule of Faith</hi> to adminiſter <hi>infallible</hi> certainty of <hi>Chriſtian Doctrine</hi> are part of them of the <hi>Roman</hi> and part of the <hi>Reformed</hi> Church. Thoſe who maintain the <hi>con<g ref="char:EOLhyphen"/>trary,</hi> are only <hi>ſome</hi> of the <hi>Reformed.</hi> As to the <hi>merit</hi> of either opinion I'le leave the diſcuſſion of it to another place; and at preſent ſhew <hi>wherein</hi> the <hi>Romiſh</hi> Controvertiſts, of which there are <hi>three</hi> diſtinct ſorts, place the <hi>Rule of Faith.</hi>
+               </p>
+               <p>The firſt ſort maintain, that <hi>A General Council confirm'd by the Pope,</hi> or (as the Propoſition is rendred by ſome) <hi>The Pope defining in a General Council cannot erre;</hi> and ſo make, <hi>The Definition of a General Council con<g ref="char:EOLhyphen"/>firm'd by the Pope;</hi> or <hi>The Definition of the Pope, in a General Council, The Rule of Faith.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <pb n="6" facs="tcp:64301:15"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="7" facs="tcp:64301:15"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="8" facs="tcp:64301:16"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="9" facs="tcp:64301:16"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="10" facs="tcp:64301:17"/>
+               <p>is the ſame thing with that which others of them name <hi>confirming,</hi> whilſt both place the ſuppos'd <hi>infalli<g ref="char:EOLhyphen"/>bility</hi> in the <hi>Popes aſſent;</hi> which <hi>aſſent</hi> thoſe who call it <hi>defining,</hi> think per<g ref="char:EOLhyphen"/>haps they make the Propoſition more obviouſly denote, <hi>that Prelats infalli<g ref="char:EOLhyphen"/>bility,</hi> as excluſive of all the <hi>reſt</hi> thereby.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III. The ſecond Opinion amongſt the <hi>Romaniſts,</hi> viz. <hi>That a</hi> General Council <hi>conciliary proceeding is in<g ref="char:EOLhyphen"/>fallible in Matters of Faith taken into conſideration, and it's double meaning explain'd; the truth of which in one of them only is here brought to the Teſt, the certainty of</hi>
+                  <pb n="11" facs="tcp:64301:17"/> 
+                  <hi>it in it's other ſenſe being left to be examin'd in other Sections.</hi>
+               </head>
+               <p>THis Aſſertion of the <hi>Second</hi> ſort of <hi>Romiſh Controvertiſts,</hi> that <hi>A General Council conciliarly proceeding cannot erre in Points of Faith,</hi> may be taken in a two-fold ſenſe, either as the words <hi>conciliarly proceeding</hi> include <hi>Tradition,</hi> which the <hi>Traditi<g ref="char:EOLhyphen"/>oniſts</hi> ſay; and then the meaning of it is, That <hi>A General Council</hi> defining according to <hi>Tradition,</hi> or the <hi>living voice</hi> of the <hi>Church</hi> cannot <hi>erre;</hi> in which ſenſe, the conſideration of it belongs to ſome following <hi>Sections:</hi> Or els as they are intended only to denote the excluſion of all <hi>fraudu<g ref="char:EOLhyphen"/>lent</hi> and <hi>forcible</hi> ways us'd to procure the <hi>votes</hi> of the <hi>Prelats,</hi> ſo as that the <hi>Definition</hi> of the <hi>Council</hi> being left to it's own <hi>freedom</hi> will be <hi>infalli<g ref="char:EOLhyphen"/>bly</hi> true, although the <hi>Means</hi> pre<g ref="char:EOLhyphen"/>parative to it, were not at all <hi>ſo;</hi> Againſt</p>
+            </div>
+            <div n="4" type="section">
+               <pb n="12" facs="tcp:64301:18"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="13" facs="tcp:64301:18"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="14" facs="tcp:64301:19"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="15" facs="tcp:64301:19"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="16" facs="tcp:64301:20"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="17" facs="tcp:64301:20"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="18" facs="tcp:64301:21"/>
+               <p>
+                  <hi>That whatſoever was deliver'd to the primitive Chriſtians by Chriſt and his Apoſtles, as a Point of Faith, hath been perpetually handed down from time to time without interrupti<g ref="char:EOLhyphen"/>on till our days as ſuch)</hi> and it's aſſign'd proof, the <hi>indefectibility</hi> of <hi>Tradition,</hi> I ſhall ſay nothing here, but remit the diſcourſe, I intend upon them, to another place; and at preſent enquire, Whether the <hi>preſent</hi> Church of <hi>Rome</hi> does in<g ref="char:EOLhyphen"/>deed depend on this <hi>Maxim,</hi> for the <hi>certainty</hi> of the <hi>purity</hi> of her <hi>Faith,</hi> That <hi>Chriſts Doctrine was deliver'd to her, as deſcending with<g ref="char:EOLhyphen"/>out interruption from Chriſt and his Apoſtles.</hi> For if it appear, upon trial made, <hi>ſhe</hi> doth not; then however indefectible <hi>Tradition</hi> be, it may notwithſtanding fall out that <hi>new Articles</hi> of <hi>Faith</hi> may be introduc'd into the <hi>Church</hi> upon ſome other Ground, not <hi>firm</hi> and <hi>ſafe,</hi> ſuch as
+<pb n="19" facs="tcp:64301:21"/> the <hi>Traditioniſts</hi> will, I know, grant, That the <hi>Definition</hi> of a <hi>General Council,</hi> not founded on <hi>Oral Tra<g ref="char:EOLhyphen"/>dition,</hi> but on this <hi>Preſumption,</hi> That the <hi>Biſhops</hi> effectually pro<g ref="char:EOLhyphen"/>ceeding to <hi>define,</hi> are <hi>immediatly</hi> in<g ref="char:EOLhyphen"/>ſpir'd from <hi>Heaven,</hi> is. And that the <hi>Roman Church</hi> does not rely on the mentioned <hi>Maxim</hi> for the cer<g ref="char:EOLhyphen"/>tainty of the <hi>purity</hi> and <hi>uncorrupted<g ref="char:EOLhyphen"/>neſs</hi> of her <hi>Faith,</hi> I have ſomthing which ſeems conſiderable, and of moment, to alledge in proof:</p>
+               <p>It will not, I preſume, be deny'd, That Cardinal <hi>Bellarmin,</hi> and the learned <hi>Romiſh Controvertiſts,</hi> more generally taken notice of after him, ever ſince the <hi>Reformation</hi> till <hi>Ruſh<g ref="char:EOLhyphen"/>worths Dialogues</hi> came to light, (for all that they made it their buſineſs to <hi>reſolve Faith,</hi> according to the <hi>be<g ref="char:EOLhyphen"/>lief</hi> and <hi>practice</hi> of their <hi>Church,</hi> did not conclude and averr <hi>Tradition</hi> to be the <hi>alone</hi> ſafe <hi>Means</hi> of con<g ref="char:EOLhyphen"/>veying
+<pb n="20" facs="tcp:64301:22"/> 
+                  <hi>Chriſts Doctrine</hi> to the know<g ref="char:EOLhyphen"/>ledge of ſucceeding Ages. And if ſuch great Lights among the <hi>Roman Clergy,</hi> miſtook the <hi>Rule of Faith,</hi> how can we reaſonably think, that the inferiour Paſtors and Laics in their time, knew it aright? And if they knew it not, neither could they rely on it as <hi>ſuch.</hi> For although it were granted (which ſome ſay) that <hi>Bellarmin</hi> himſelf, and all the learned <hi>Clerks</hi> of the <hi>Roman Church,</hi> no leſs then the other <hi>Clergy</hi> and <hi>Lay<g ref="char:EOLhyphen"/>men,</hi> did <hi>practically</hi> rely on <hi>Tradi<g ref="char:EOLhyphen"/>tion,</hi> in as much as they were <hi>Orally</hi> taught their <hi>Religion</hi> by the <hi>pre<g ref="char:EOLhyphen"/>ceding</hi> Generation; and that again by the next before it, and ſo ſtill backwards, <hi>one</hi> Age of <hi>another,</hi> ever ſince the very firſt beginning of <hi>Chriſtianity;</hi> yet unleſs they alſo <hi>knowingly</hi> did it, when once they came to make enquiry upon what <hi>ſtedfaſt Ground</hi> the <hi>Chriſtian Faith</hi>
+                  <pb n="21" facs="tcp:64301:22"/> was to be embrac'd, they would no longer reſt upon the <hi>inſtruction</hi> they had when they <hi>firſt</hi> in their younger years believ'd, if ſo be up<g ref="char:EOLhyphen"/>on ſearch made, they conceiv'd (as it ſeems the chiefeſt of them, beſides many more, if not the generality, did) that the <hi>certainty</hi> of <hi>Faith</hi> was not ſounded on <hi>Oral Tradition,</hi> their firſt <hi>Inſtructor</hi> in it, but on ſome<g ref="char:EOLhyphen"/>thing els. Yea, I think, I ſhall not miſtake the truth, if, I ſay, that it was not the <hi>private</hi> opinion of ſome great <hi>Doctors,</hi> and their <hi>followers</hi> on<g ref="char:EOLhyphen"/>ly; but the ſenſe of the <hi>Council</hi> of <hi>Trent</hi> it ſelf alſo; That <hi>Faith</hi> is not reſolv'd into <hi>Tradition</hi> as it's <hi>adequate Rule;</hi> whilſt in conſulting the firſt <hi>Decree</hi> of the fourth <hi>Seſſion</hi> of that <hi>Council,</hi> I find two <hi>Paſſages,</hi> which ſeem to make it out: The <hi>former</hi> of them is this, <hi>Sacroſancta Oecumenica, &amp; Generalis Tridentina Synodus, &amp;c. perſpiciens hanc</hi> (nempe
+<pb n="22" facs="tcp:64301:23"/> Chriſtianam) <hi>veritatem &amp; Diſcipli<g ref="char:EOLhyphen"/>nam, contineri in Libris ſcriptis, &amp; ſine Scripto Traditionibus, quae ex ipſius Chriſti ore ab Apoſtolis acceptae, aut ab ipſis Apoſtolis Spiritu Sancto dictante, quaſi per manus traditae, ad nos uſque pervenerunt, Orthodoxorum Patrum exempla ſecuta, omnes Li<g ref="char:EOLhyphen"/>bros tam veteris quám novi Teſta<g ref="char:EOLhyphen"/>menti, cùm utriuſque Deus ſit Au<g ref="char:EOLhyphen"/>thor, necnon Traditiones ipſas tum ad Fidem, tum ad Mores pertinen<g ref="char:EOLhyphen"/>tes, tanquam vel ore tenus a Chriſto, vel à Spiritu Sancto dictatas, &amp; continuâ ſucceſſione in Eccleſia Catho<g ref="char:EOLhyphen"/>lica conſervatas pari pietatis affectu, ac reverentiâ ſuſcipit, ac veneratur.</hi> The <hi>latter</hi> Paſſage cloſeth up the <hi>Decree</hi> thus; <hi>Si quis Libros ipſos integros</hi> (Scripturae ſcilicet) <hi>cum om<g ref="char:EOLhyphen"/>nibus ſuis partibus, prout in Eccleſia Catholica legi conſueverunt, &amp; in ve<g ref="char:EOLhyphen"/>teri vulgata Latina Editione haben<g ref="char:EOLhyphen"/>tur, pro Sacris &amp; Canonicis non ſuſ<g ref="char:EOLhyphen"/>ceperit,
+<pb n="23" facs="tcp:64301:23"/> &amp; Traditiones praedictas ſci<g ref="char:EOLhyphen"/>ens &amp; prudens contempſerit, anathema ſit. Omnes itaque intelligant quo or<g ref="char:EOLhyphen"/>dine, &amp; via ipſa Synodus, poſt jactum Fidei Fundamentum ſit progreſſura, &amp; quibus potiſſimùm Teſtimoniis, ac Praeſidiis in confirmandis Dogma<g ref="char:EOLhyphen"/>tibus, &amp; inſtaurandis in Eccleſia Mo<g ref="char:EOLhyphen"/>ribus ſit uſura.</hi> In both theſe Paſſa<g ref="char:EOLhyphen"/>ges, <hi>Scripture</hi> and <hi>Apoſtolical Tra<g ref="char:EOLhyphen"/>ditions</hi> are plainly contradiſtin<g ref="char:EOLhyphen"/>guiſh'd, as <hi>equally</hi> relating ſome way or other to <hi>Chriſtian Faith</hi> and <hi>Man<g ref="char:EOLhyphen"/>ners.</hi> And although in the <hi>former</hi> place, they ſeem to be <hi>principally</hi> oppos'd, as the <hi>Written,</hi> and <hi>un<g ref="char:EOLhyphen"/>written Word</hi> of <hi>God;</hi> yet not with<g ref="char:EOLhyphen"/>out this apparent intimation alſo, that as the <hi>Books,</hi> or <hi>written Words</hi> call'd <hi>Scripture,</hi> leade to the <hi>ſenſe</hi> or <hi>Doctrine</hi> contain'd in them; ſo likewiſe the <hi>unwritten words</hi> where<g ref="char:EOLhyphen"/>in <hi>Apoſtolical Traditions</hi> are taught, guide to the <hi>meaning</hi> couch'd in
+<pb n="24" facs="tcp:64301:24"/> them; ſo that as <hi>Scripture</hi> and <hi>Tra<g ref="char:EOLhyphen"/>ditions</hi> taken in the <hi>former</hi> ſenſe, are held by the <hi>Council</hi> to be <hi>equal<g ref="char:EOLhyphen"/>ly</hi> the <hi>Word</hi> of <hi>God;</hi> ſo are they moreover in the <hi>latter</hi> ſenſe held to be <hi>equally</hi> ſignificative and expreſ<g ref="char:EOLhyphen"/>ſive of the <hi>Doctrine</hi> of <hi>Salvation</hi> delivered by them. But in the <hi>lat<g ref="char:EOLhyphen"/>ter</hi> rehearſed place of the <hi>Decree, Scripture</hi> and <hi>Traditions</hi> are <hi>chiefly</hi> to be underſtood of <hi>written</hi> and <hi>unwrit<g ref="char:EOLhyphen"/>ten words</hi> directing to the knowledge of the <hi>Objects</hi> of <hi>Faith;</hi> as appears by theſe Lines here following tran<g ref="char:EOLhyphen"/>ſcrib'd from thence: <hi>Quibus potiſſi<g ref="char:EOLhyphen"/>mum Teſtimoniis, &amp; Praeſidiis</hi> (nem<g ref="char:EOLhyphen"/>que Scriptura &amp; Traditionibus) <hi>in confirmandis Dogmatibus, &amp; inſtau<g ref="char:EOLhyphen"/>randis in Eccleſia Moribus, ſit uſura Synodus.</hi> For <hi>Scripture</hi> and <hi>Traditi<g ref="char:EOLhyphen"/>ons,</hi> cannot here be taken for <hi>Chriſts Doctrine</hi> it ſelf, but for <hi>Characters</hi> and <hi>Sounds,</hi> apt to diſcover what is <hi>meant</hi> by them. From the whole,
+<pb n="25" facs="tcp:64301:24"/> therefore I gather, That the <hi>Council</hi> of <hi>Trent,</hi> reſolves <hi>Faith</hi> into <hi>Scri<g ref="char:EOLhyphen"/>pture</hi> and <hi>Traditions,</hi> when taken for the <hi>Word</hi> of <hi>God,</hi> or <hi>Doctrine</hi> of <hi>Salvation,</hi> as into it's <hi>proper Object;</hi> and into the ſame <hi>Scripture</hi> and <hi>Traditions,</hi> when taken, the one for a <hi>Teſtimony</hi> in <hi>Writing,</hi> the <hi>other</hi> for an <hi>Oral Teſtimony,</hi> as into it's <hi>adequat Rule;</hi> ſaving what the Ad<g ref="char:EOLhyphen"/>verb <hi>potiſſimùm,</hi> in the laſt recited Paſſage of the <hi>Council</hi> may perad<g ref="char:EOLhyphen"/>venture abate.</p>
+               <p>In hopes to enervate the force of this Diſcourſe, 'twill not improba<g ref="char:EOLhyphen"/>bly, be ſaid, That <hi>Scripture</hi> and <hi>Apoſtolical Traditions,</hi> are granted to be held by the <hi>Tridentin Coun<g ref="char:EOLhyphen"/>cil,</hi> the <hi>Totum</hi> or <hi>Extent</hi> of all <hi>reveal'd Truths;</hi> and conſequently, the <hi>Characters</hi> and <hi>Sounds,</hi> or the <hi>written</hi> and <hi>unwritten</hi> words, where<g ref="char:EOLhyphen"/>in they are contain'd, the <hi>material Rule</hi> of <hi>Faith;</hi> but ſeeing it is
+<pb n="26" facs="tcp:64301:25"/> 
+                  <hi>Oral Tradition</hi> that informs us of the <hi>ſenſe</hi> of <hi>both,</hi> this <hi>alone</hi> is the <hi>formal Rule</hi> of <hi>Faith,</hi> and that even according to the mind of the <hi>Trent Fathers</hi> themſelves; as the ſubſe<g ref="char:EOLhyphen"/>quent Paſſage of the ſecond <hi>Decree</hi> of the fourth <hi>Seſſion,</hi> teſtifieth; <hi>Ad coercenda petulantia ingenia decernit</hi> (eadem ſcilicet Sacroſancta Synodus) <hi>et nemo ſuae prudentiae innixus in rebus Fidei, &amp; Morum ad aedifica<g ref="char:EOLhyphen"/>tionem Doctrinae Chriſtianae pertinen<g ref="char:EOLhyphen"/>tium, ſacram Scripturam, ad ſuos ſenſus contorquens, contra eum ſenſum quem tenuit ac tenet Sancta Mater Eccleſia, cujus eſt judicare de vero ſenſa &amp; interpretatione Scriptura<g ref="char:EOLhyphen"/>rum ſanctarum, aut etiam contra ſen<g ref="char:EOLhyphen"/>ſum unanimem Patrum ipſam Scri<g ref="char:EOLhyphen"/>pturam ſacram interpretari audeat.</hi>
+               </p>
+               <p>In return to this, I ſhall not de<g ref="char:EOLhyphen"/>ny, but that if <hi>Holy Scripture</hi> were Writ, and <hi>Apoſtolical Traditions</hi> ex<g ref="char:EOLhyphen"/>preſs'd in Words, not plainly ſigni<g ref="char:EOLhyphen"/>ficative
+<pb n="27" facs="tcp:64301:25"/> of <hi>one determinate ſenſe,</hi> but had their <hi>intelligibleneſs</hi> in <hi>Matters</hi> of <hi>Faith</hi> and <hi>Manners</hi> from <hi>Oral Tradition,</hi> this <hi>alone</hi> would be the <hi>formal Rule of Faith.</hi> But then, in caſe the thing were truely ſo, and the late quoted place of the <hi>Council</hi> intended as much; I ſee not how that learned <hi>Aſſembly</hi> can be clear'd from contradicting it ſelf; ſince <hi>Scripture,</hi> and <hi>Apoſtolical Traditions,</hi> if meer <hi>unintelligible</hi> Characters and Sounds, without their ſuppos'd au<g ref="char:EOLhyphen"/>thentick Interpreter <hi>Oral Tradition,</hi> would be ſo farr from being <hi>two Witneſſes,</hi> or <hi>Teſtimonies</hi> of <hi>Chriſts Doctrine,</hi> (which yet, as was ſeen, the <hi>Council</hi> ſolemnly, and not tranſi<g ref="char:EOLhyphen"/>ently, calls them) that they would neither of them be any <hi>Witneſs</hi> or <hi>Teſtimony</hi> thereof at all; the very <hi>nature</hi> and <hi>office</hi> of a <hi>Witneſs</hi> or <hi>Teſtimony</hi> being this, to <hi>manifeſt,</hi> and render <hi>intelligible</hi> to thoſe who are
+<pb n="28" facs="tcp:64301:26"/> 
+                  <hi>immediatly,</hi> concern'd to underſtand it, what it bears <hi>witneſs</hi> or gives <hi>teſtmony</hi> unto; <hi>immediatly</hi> I ſay, concern'd; but <hi>who</hi> thoſe are, in reſpect of the <hi>Rule</hi> of <hi>Chriſtian Faith,</hi> I deferr the enquiry of to another place. At preſent, in re<g ref="char:EOLhyphen"/>gard it will not, I prefume, be ad<g ref="char:EOLhyphen"/>mitted that the <hi>Council</hi> contradicts it ſelf, the ſence of the rehearſed Paſſage is farr more obvious, then that which hath been mention'd, if not evident, to be this; That whenſoever the <hi>Holy Scripture</hi> is through either weakneſs or wilful<g ref="char:EOLhyphen"/>neſs drawn to a <hi>wrong ſenſe,</hi> it of <hi>Right</hi> belongs to the <hi>Governors</hi> of the <hi>Church</hi> to declare the <hi>true ſence</hi> thereof; which the <hi>Council</hi> might very well think to be juſt and fitting without ſuppoſing the <hi>words</hi> of <hi>Scri<g ref="char:EOLhyphen"/>pture</hi> to be <hi>unſens'd Characters,</hi> ſince experience dayly ſhews, that things <hi>eaſie</hi> to be underſtood, are often mi<g ref="char:EOLhyphen"/>ſtaken
+<pb n="29" facs="tcp:64301:26"/> by the <hi>vulgar,</hi> and <hi>very plain</hi> words and ſentences, wreſted by men of <hi>ſubtil wits,</hi> to a <hi>perverſe ſenſe.</hi>
+               </p>
+               <p>
+                  <hi>Two Witneſſes</hi> then of <hi>Chriſts Doctrine,</hi> viz. <hi>Scripture</hi> and <hi>Tradi<g ref="char:EOLhyphen"/>tions,</hi> the <hi>Council</hi> of <hi>Trent</hi> ſtill ſeems to me plainly to aſſert. But beſides theſe, let's conſider if there was not moreover a <hi>third,</hi> which the <hi>Prelats</hi> had an eye to, in reſpect of ſome<g ref="char:EOLhyphen"/>thing <hi>defin'd</hi> by them; for I can<g ref="char:EOLhyphen"/>not conjecture, what they ſhould mean by the Word <hi>potiſſimùm,</hi> men<g ref="char:EOLhyphen"/>tioned before, except this, That there are ſome <hi>divine Truths,</hi> which are not ſo clearly contain'd, either in <hi>Scripture,</hi> or <hi>Apoſtolical Traditions,</hi> as to be ſufficiently atteſted by them, and that therefore, they ſtood need of a <hi>further Teſtimony,</hi> to make them <hi>manifeſt;</hi> which whe<g ref="char:EOLhyphen"/>ther it was the <hi>unanimous</hi> conſent of the <hi>Fathers,</hi> or the <hi>immediat aſſiſtance</hi> of the <hi>Holy Spirit,</hi> or ſome<g ref="char:EOLhyphen"/>thing
+<pb n="30" facs="tcp:64301:27"/> els which the <hi>Council</hi> intend<g ref="char:EOLhyphen"/>ed, I have no need to be ſcrupu<g ref="char:EOLhyphen"/>lous about, ſince my buſineſs in this place, was no more but to diſcover, Whether the <hi>Church</hi> of <hi>Rome</hi> (as 'tis affirm'd by the <hi>Traditioniſts)</hi> do really rely on this <hi>Maxim</hi> for her <hi>Faith,</hi> that it was recommended to her as <hi>Orally deſcending by a conti<g ref="char:EOLhyphen"/>nued ſucceſſion, from Chriſt and his Apoſtles;</hi> or that it is but a thing ſpeciouſly pretended, on her behalf, to avouch her <hi>Doctrine</hi> by; where<g ref="char:EOLhyphen"/>in, as the preceding Diſcourſe hath already ſhewn in general, ſo the ſub<g ref="char:EOLhyphen"/>ſequent will hereafter ſhew in par<g ref="char:EOLhyphen"/>ticular, what the truth to my ap<g ref="char:EOLhyphen"/>prehenſion is; whilſt that which has been ſaid, concerning the <hi>Council</hi> of <hi>Trents</hi> opinion in the Point, ſhall be further ſeconded and confirm'd by ſeveral <hi>Inſtances</hi> out of the <hi>ſame.</hi>
+               </p>
+               <p>The <hi>firſt</hi> ſhall be, That it has de<g ref="char:EOLhyphen"/>fin'd <hi>Seſs.</hi> 4 <hi>Decree.</hi> 1. What Books
+<pb n="31" facs="tcp:64301:27"/> are <hi>Canonical Sp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ture,</hi> and <hi>anathe<g ref="char:EOLhyphen"/>matizes</hi> thoſe who will not receive them as <hi>ſuch,</hi> amongſt which the <hi>Epiſtle</hi> to the <hi>Hebrews</hi> is one; and yet it has not <hi>always</hi> been eſteem'd <hi>Canonical</hi> by the <hi>Weſtern Church,</hi> as is granted by <hi>Cardinal Perron,</hi> and others of the <hi>Romiſh</hi> Profeſſion, that St. <hi>Jerom,</hi> whoſe teſtimony can<g ref="char:EOLhyphen"/>not be in reaſon refus'd, affirms; for being in his time an <hi>eminent</hi> Member of the <hi>ſame Church,</hi> he could not be ignorant of her <hi>practice,</hi> and that he would Write an <hi>un<g ref="char:EOLhyphen"/>truth,</hi> whereof he might eaſily be detected, is not at all credible.</p>
+               <p>The <hi>Second</hi> Inſtance is, That the <hi>Books Arocryphal,</hi> for which there is no <hi>Univerſal Tradition,</hi> that they are the <hi>Word</hi> of <hi>God,</hi> as <hi>Dr. Coſins</hi> (late <hi>Lord Biſhop</hi> of <hi>Durham,</hi> in his <hi>Scho<g ref="char:EOLhyphen"/>laſtical Hiſtory of the Canon of Scri<g ref="char:EOLhyphen"/>pture</hi> ſhews, are defin'd by the <hi>Council</hi> of <hi>Trent Seſs.</hi> 4. <hi>Decree</hi> 1. to be <hi>Ca<g ref="char:EOLhyphen"/>nonical Scripture.</hi>
+               </p>
+               <pb n="32" facs="tcp:64301:28"/>
+               <p> The <hi>third</hi> (and laſt Inſtance, which at preſent I ſhall produce) is to be ſeen, <hi>Seſs.</hi> 7. <hi>Can.</hi> 9. <hi>of the Trent Synod,</hi> where we find it thus defining; <hi>Si quis dixerit in tribus Sacramentis Baptiſmo ſcil. Confirmatione, &amp; Ordine; non imprimi Characterem in anima, hoc eſt ſignum quoddam ſpirituale &amp; indelebile, unde ea iterari non poſſunt, Anathema ſit.</hi> Theſe according to the <hi>Traditioniſts</hi> are the <hi>words,</hi> or at leaſt, the <hi>ſence</hi> of the words of the <hi>Church, diffuſive</hi> pronounc'd by it's <hi>Repreſen<g ref="char:EOLhyphen"/>tative;</hi> by which it ſeems there is a <hi>Tradition,</hi> that a <hi>Character</hi> or a <hi>cer<g ref="char:EOLhyphen"/>tain Spiritual indeleble ſigne is im<g ref="char:EOLhyphen"/>printed in the Souls</hi> of thoſe who are <hi>baptiz'd, confirm'd</hi> and <hi>ordain'd.</hi> Now That the generality of <hi>Paſtors, Pa<g ref="char:EOLhyphen"/>rents, Tutors,</hi> and <hi>Nurſes</hi> (the ſure <hi>Conveyers</hi> of <hi>Chriſtianity,</hi> as the <hi>Tra<g ref="char:EOLhyphen"/>ditioniſts</hi> tell us, from <hi>Age to Age)</hi> ſhould know what it is to have a <hi>Character</hi> or <hi>ſpiritual ſigne imprinted</hi>
+                  <pb n="33" facs="tcp:64301:28"/> 
+                  <hi>in the Soul</hi> (and without that they could not declare it in <hi>various forms</hi> of ſpeech, as was requiſit they ſhould, in regard, that one main reaſon given by the <hi>Traditioniſts,</hi> why <hi>Chriſts Doctrine</hi> cannot fail in the conveyance, is, becauſe it is ex<g ref="char:EOLhyphen"/>preſs'd ſo many <hi>ſeveral</hi> ways, that the <hi>generality</hi> of the Hearers, can<g ref="char:EOLhyphen"/>not chuſe but underſtand it <hi>aright)</hi> I ſee ſmall cauſe to think, eſpeci<g ref="char:EOLhyphen"/>ally, when I reflect, That the great <hi>Maſter</hi> of the <hi>Traditionary Diſci<g ref="char:EOLhyphen"/>ples</hi> in his <hi>Inſtitut, Sacr. Tom.</hi> 2. <hi>Lect.</hi> 4. thus teacheth; <hi>Ponere ſigna ſpiritualia,</hi> ie. <hi>inviſibilia contra ip<g ref="char:EOLhyphen"/>ſam rationem ſigni eſt, quod pro ma<g ref="char:EOLhyphen"/>teriali oportet eſſe notum &amp; viſibile, pro eô veró quod ſignificat lateris, unde non niſi inter homines, qui col<g ref="char:EOLhyphen"/>ligunt ſcientiam ex objectis, reperi<g ref="char:EOLhyphen"/>untur, &amp; non poſſunt eſſe ſpiritualia, ſed ex neceſſitate ſenſibilia.</hi> And in the page following, the ſame learn<g ref="char:EOLhyphen"/>ed
+<pb n="34" facs="tcp:64301:29"/> 
+                  <hi>Author</hi> aſſerteth; <hi>Ipſam perſo<g ref="char:EOLhyphen"/>nam eſſe ſubjectum Characteris, cúm actio ſit communis corpori, &amp; animae,</hi> i. e. <hi>totius.</hi> If perchance it ſhould be ſaid, That the ſcope of the <hi>Canon</hi> is only to declare, that there is an <hi>appropriation,</hi> or appointment of a mans whole life, to ſome ſolemn <hi>Engagement</hi> or <hi>Action;</hi> as by <hi>Baptiſm</hi> to be a <hi>Chriſtian;</hi> by <hi>Confirmation</hi> to undergoe couragiouſly the <hi>Chri<g ref="char:EOLhyphen"/>ſtian warfare;</hi> by <hi>Order</hi> to Preach the <hi>Word,</hi> to adminiſter the <hi>Sacra<g ref="char:EOLhyphen"/>ments,</hi> &amp;c. ſo that not any of them is to be <hi>iterated,</hi> and this <hi>Chriſtians</hi> generally know; for who is igno<g ref="char:EOLhyphen"/>rant, that none us'd to be <hi>Baptiz'd,</hi> none <hi>confirm'd,</hi> none <hi>ordain'd,</hi> more then once? I reply, If the <hi>Tradi<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Church</hi> be plac't wholy in that; then in caſe the <hi>Council</hi> has defin'd <hi>more,</hi> it could not ground the ſame upon the <hi>uninterrupted de<g ref="char:EOLhyphen"/>livery</hi> thereof. And that the <hi>Council</hi>
+                  <pb n="35" facs="tcp:64301:29"/> has defin'd <hi>more,</hi> appears from this, That the <hi>Canon</hi> further declares <hi>two</hi> things, which whoſoever denies, in<g ref="char:EOLhyphen"/>currs an <hi>Anathema;</hi> the <hi>one</hi> is, That the <hi>Character</hi> given in the three nominated <hi>Sacraments,</hi> is a <hi>ſpi<g ref="char:EOLhyphen"/>ritual ſign;</hi> the <hi>other,</hi> That the <hi>ſoul (alone)</hi> is the <hi>ſubject</hi> thereof, (for although the word <hi>alone</hi> be not in the <hi>Canon;</hi> yet it is neceſſarily im<g ref="char:EOLhyphen"/>ply'd, becauſe a <hi>ſpiritual</hi> ſign can<g ref="char:EOLhyphen"/>not be <hi>imprinted</hi> in a <hi>corporeal</hi> ſub<g ref="char:EOLhyphen"/>ſtance) and therefore, as to theſe, the <hi>Council</hi> could not ground the <hi>De<g ref="char:EOLhyphen"/>finition</hi> upon <hi>Tradition.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V. <hi>The Controvertiſts of the</hi> Re<g ref="char:EOLhyphen"/>formed Church, <hi>make</hi> Scripture <hi>the</hi> Rule <hi>of</hi> Faith. <hi>Two main different</hi>
+               </head>
+               <pb n="36" facs="tcp:64301:30"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="6" type="section">
+               <pb n="37" facs="tcp:64301:30"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="7" type="section">
+               <pb n="38" facs="tcp:64301:31"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="8" type="section">
+               <pb n="39" facs="tcp:64301:31"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="9" type="section">
+               <pb n="40" facs="tcp:64301:32"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="10" type="section">
+               <pb n="41" facs="tcp:64301:32"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="42" facs="tcp:64301:33"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="43" facs="tcp:64301:33"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="44" facs="tcp:64301:34"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="45" facs="tcp:64301:34"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="46" facs="tcp:64301:35"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="47" facs="tcp:64301:35"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="48" facs="tcp:64301:36"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="49" facs="tcp:64301:36"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="50" facs="tcp:64301:37"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="51" facs="tcp:64301:37"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="52" facs="tcp:64301:38"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="53" facs="tcp:64301:38"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="54" facs="tcp:64301:39"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="55" facs="tcp:64301:39"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="56" facs="tcp:64301:40"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="57" facs="tcp:64301:40"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="58" facs="tcp:64301:41"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="59" facs="tcp:64301:41"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="60" facs="tcp:64301:42"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="61" facs="tcp:64301:42"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="62" facs="tcp:64301:43"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="63" facs="tcp:64301:43"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="64" facs="tcp:64301:44"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="65" facs="tcp:64301:44"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="66" facs="tcp:64301:45"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="67" facs="tcp:64301:45"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="68" facs="tcp:64301:46"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="69" facs="tcp:64301:46"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="70" facs="tcp:64301:47"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="71" facs="tcp:64301:47"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="72" facs="tcp:64301:48"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="73" facs="tcp:64301:48"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="74" facs="tcp:64301:49"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="75" facs="tcp:64301:49"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="76" facs="tcp:64301:50"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="77" facs="tcp:64301:50"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="78" facs="tcp:64301:51"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="79" facs="tcp:64301:51"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="80" facs="tcp:64301:52"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="81" facs="tcp:64301:52"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="82" facs="tcp:64301:53"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="83" facs="tcp:64301:53"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="84" facs="tcp:64301:54"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="85" facs="tcp:64301:54"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="86" facs="tcp:64301:55"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="87" facs="tcp:64301:55"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="88" facs="tcp:64301:56"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="89" facs="tcp:64301:56"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="90" facs="tcp:64301:57"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="91" facs="tcp:64301:57"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="92" facs="tcp:64301:58"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="93" facs="tcp:64301:58"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="94" facs="tcp:64301:59"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="95" facs="tcp:64301:59"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="96" facs="tcp:64301:60"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="97" facs="tcp:64301:60"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="98" facs="tcp:64301:61"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="99" facs="tcp:64301:61"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="100" facs="tcp:64301:62"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="101" facs="tcp:64301:62"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="102" facs="tcp:64301:63"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="103" facs="tcp:64301:63"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="104" facs="tcp:64301:64"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="105" facs="tcp:64301:64"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="106" facs="tcp:64301:65"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="107" facs="tcp:64301:65"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="108" facs="tcp:64301:66"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="109" facs="tcp:64301:66"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="110" facs="tcp:64301:67"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="111" facs="tcp:64301:67"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="88" facs="tcp:64301:68"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="113" facs="tcp:64301:68"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="114" facs="tcp:64301:69"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="115" facs="tcp:64301:69"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="116" facs="tcp:64301:70"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="117" facs="tcp:64301:70"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="118" facs="tcp:64301:71"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="119" facs="tcp:64301:71"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="120" facs="tcp:64301:72"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="121" facs="tcp:64301:72"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="122" facs="tcp:64301:73"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="123" facs="tcp:64301:73"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="124" facs="tcp:64301:74"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="125" facs="tcp:64301:74"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="126" facs="tcp:64301:75"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="127" facs="tcp:64301:75"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="128" facs="tcp:64301:76"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="129" facs="tcp:64301:76"/>
+               <p>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </p>
+               <pb n="130" facs="tcp:64301:77"/>
+               <p>
+                  <hi>tion</hi> is a like impoſſible; as that <hi>multi<g ref="char:EOLhyphen"/>tudes</hi> of people ſhould not in <hi>every Age</hi> be <hi>truly</hi> deſirous of their <hi>own,</hi> and their <hi>Poſterities everlaſting Happineſs,</hi> ſee<g ref="char:EOLhyphen"/>ing (as I have ſhew'd) 'tis a thing <hi>eaſy</hi> and <hi>neceſſary</hi> to <hi>Salvation</hi> to be perform'd, to prepetuate <hi>Chriſts Do<g ref="char:EOLhyphen"/>ctrin</hi> by a <hi>continued practical De<g ref="char:EOLhyphen"/>livery of it,</hi> till the Conſummation of all things.</p>
+               <p>However clear the truth of this may ſeem, yet in regard I meet with four grand <hi>Arguments</hi> urg'd ſtiffly againſt the <hi>indefectibility</hi> of <hi>Tradition,</hi> two of which are thought (by ſome) to be grounded on firm <hi>Reaſon;</hi> the other two on certain <hi>Experience;</hi> 'twill be requiſit well to conſider of them, and to try their ſtrength.</p>
+               <p>The <hi>firſt</hi> is, That <hi>Moral Cauſes work not neceſſarily, and therefore it cannot be certainly concluded that how<g ref="char:EOLhyphen"/>ever ſtrongly the Motives for the pra<g ref="char:EOLhyphen"/>ctical continuance of Chriſts Doctrin</hi>
+                  <pb n="131" facs="tcp:64301:77"/> 
+                  <hi>be appli'd to the mind, the Will will undoubtedly embrace them, and act ac<g ref="char:EOLhyphen"/>cording to them.</hi> This firſt <hi>Argument</hi> is ſufficiently (I think) anſwer'd, <hi>Se<g ref="char:EOLhyphen"/>ction,</hi> 7. yet for fuller conviction I will add this here, that the ſame <hi>Ar<g ref="char:EOLhyphen"/>gument</hi> if appli'd to <hi>Scripture,</hi> would prove as much every jot againſt <hi>Scri<g ref="char:EOLhyphen"/>ptures preſervation,</hi> as againſt the <hi>con<g ref="char:EOLhyphen"/>tinuance of Tradition.</hi> If it be repli'd, that <hi>Gods Goodneſs</hi> is engag'd for the <hi>preſervation</hi> of <hi>Scripture;</hi> I grant it, if man uſe his <hi>own</hi> endeavours, other<g ref="char:EOLhyphen"/>wiſe, <hi>God</hi> is not (I conceive) concern'd to preſerve it; for I preſume no man of ſound Reaſon will ſay, that <hi>God</hi> is oblig'd by his Goodneſs <hi>immediatly</hi> to ſave it <hi>Himſelf,</hi> or to commit the ſafeguard of it to the <hi>ſole</hi> care of <hi>Angels,</hi> when <hi>Men,</hi> whoſe <hi>Concern</hi> it is to preſerve it, are ſufficient (if there be no default in themſelves) for the work. If Mans endeavours therefore for the conſervation of it
+<pb n="132" facs="tcp:64301:78"/> be <hi>free</hi> in that ſence which the Ob<g ref="char:EOLhyphen"/>jection ſuppoſes <hi>every</hi> action of Man to be, there will be no more certain<g ref="char:EOLhyphen"/>ty of the continuance of <hi>Scripture,</hi> then of the <hi>practical Delivery</hi> of <hi>Chriſts Doctrine</hi> throughout <hi>all Ge<g ref="char:EOLhyphen"/>nerations;</hi> and if the <hi>Church</hi> ſhould at any time be without it's <hi>Rule of Faith,</hi> 'twould either dwindle away to nothing, or become a meer Babel of Anarchy and Confuſion.</p>
+               <p>The <hi>ſecond</hi> Argument to prove, That <hi>Tradition</hi> is not of an <hi>inde<g ref="char:EOLhyphen"/>fectible</hi> nature is this; <hi>If men be not free, it is no virtue at all in them to be wrought upon by Moral Motives; for what virtue can it be in any man to entertain the Chriſtian Doctrine, and adhere to it whether he will or no?</hi> I willingly grant, it is no virtue in any man to do a thing whether he will or no; for to do a thing whether a man will or no, is (according to the common
+<pb n="133" facs="tcp:64301:78"/> uſe of the Phraſe) to do it <hi>againſt his Will,</hi> which as to the <hi>actus elici<g ref="char:EOLhyphen"/>tus</hi> of the <hi>Will,</hi> involves this mani<g ref="char:EOLhyphen"/>feſt Contradiction, to <hi>will</hi> and <hi>nill</hi> at <hi>once</hi> the <hi>ſame</hi> thing. The words there<g ref="char:EOLhyphen"/>fore, <hi>whether he will or no,</hi> muſt be interpreted, to mean, here in the Ob<g ref="char:EOLhyphen"/>jection, no more then <hi>neceſſarily,</hi> or rather, in propriety of Speech, <hi>cer<g ref="char:EOLhyphen"/>tainly;</hi> for, I take a <hi>neceſſary</hi> effect in the moſt ſtrict and proper notion of it, to be an effect wrought in a Subject wholly <hi>paſſive;</hi> whereas the <hi>Will</hi> is an <hi>active Principle,</hi> and al<g ref="char:EOLhyphen"/>ways <hi>determines</hi> it ſelf, however powerfully the <hi>Motives</hi> work upon it. Whence it is, that even the bleſ<g ref="char:EOLhyphen"/>ſed <hi>Saints</hi> and <hi>Angel's</hi> in Heaven, though their affections be moſt ſtrong<g ref="char:EOLhyphen"/>ly and unalterably fix'd on <hi>God,</hi> are not neceſſitated thereto without their <hi>own great good-liking,</hi> and <hi>active</hi> ten<g ref="char:EOLhyphen"/>dency to the enjoyment of their <hi>So<g ref="char:EOLhyphen"/>vereign Good.</hi> If then the <hi>fruition</hi>
+                  <pb n="134" facs="tcp:64301:79"/> of the very <hi>End,</hi> be ſo voluntary, that the <hi>Will</hi> is <hi>active</hi> therein, 'tis certainly ſo, in reſpect of the <hi>Means</hi> conducing to it, to the choice where<g ref="char:EOLhyphen"/>of, <hi>deliberation</hi> is prerequir'd; the office of which deliberation, is to conſult <hi>what means</hi> will be moſt a<g ref="char:EOLhyphen"/>vailable to obtain the deſign'd <hi>End</hi> by; the <hi>principal</hi> of which in <hi>Morals,</hi> is Mans <hi>Summum Bonum,</hi> or <hi>ſove<g ref="char:EOLhyphen"/>reign Good,</hi> namely, the <hi>fruition</hi> of <hi>God</hi> whereunto as well the <hi>Moral</hi> as <hi>Theological Vertues,</hi> are conduci<g ref="char:EOLhyphen"/>ble <hi>Means;</hi> ſo that to be <hi>actually virtuous,</hi> is to act for the enjoyment of the <hi>Chief Good,</hi> in a way <hi>pro<g ref="char:EOLhyphen"/>per</hi> for the attaining of it; which to do the more ſtedfaſtly, conſtantly, and certainly, were not, I ſhould think, to, do leſs, but rather more virtuouſly, yet without infringing the <hi>Liberty</hi> of the <hi>Will,</hi> which retains always it's <hi>native</hi> power, when it ſo likes, to do <hi>otherwiſe.</hi> But in caſe the
+<pb n="135" facs="tcp:64301:79"/> 
+                  <hi>habit</hi> of <hi>Virtue</hi> in any man grow ſo ſtrong and potent, that it perpetually incline him to purſue his <hi>Chief Good,</hi> I hope, the enjoyment of <hi>God,</hi> will not be made ſuch a neceſſary effect thereby, as that he'l enjoy <hi>God,</hi> whe<g ref="char:EOLhyphen"/>ther <hi>himſelfe</hi> will or no. The <hi>certainty</hi> therefore of a thing wrought by <hi>Moral Cauſes,</hi> is no evidence that Man is not endued with <hi>Free-will,</hi> but only ſhews that the <hi>Motives</hi> act ſo vigorouſly and powerfully conſidering the pre<g ref="char:EOLhyphen"/>ſent diſpoſition of the Mind, and the Circumſtances a man is in, that the <hi>Wills native indifferency</hi> to <hi>will</hi> or <hi>not</hi> to <hi>will,</hi> is caſt by them on that ſide, which makes for producing the <hi>Effect,</hi> but yet ſo, that it's the <hi>Wills</hi> own <hi>choice</hi> to do it, which determins <hi>itſelf</hi> by reaſon of the preſent agreeable<g ref="char:EOLhyphen"/>neſs and gratefullneſs of the <hi>Motives</hi> thereunto. For unleſs we'll deny the conſtant Experience of all Ages, we muſt needs confeſs, that there is a
+<pb n="136" facs="tcp:64301:80"/> 
+                  <hi>certainty</hi> of divers Effects in the courſe of ſeveral things in the world (ſuch as were mentioned <hi>Section</hi> 7. beſides many more not ſpoken of) which flow from <hi>Moral Motives;</hi> ſo that it would be more tolerable if there were no way to reconcile <hi>Free-will,</hi> and that <hi>certainty,</hi> to make doubt of the <hi>former,</hi> rather then of the <hi>latter;</hi> but we ſee, by what has been ſaid, That a <hi>certainty</hi> of <hi>effects</hi> proceeding from <hi>Moral Cauſes,</hi> and the <hi>native Liberty</hi> o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Mans Will;</hi> may well enough conſiſt together.</p>
+               <p>The <hi>other two</hi> Arguments brought to prove, That <hi>Tradition is defectible</hi> are Founded on <hi>two Inſtances,</hi> the for<g ref="char:EOLhyphen"/>mer of which is this; <hi>The Tradition of the one true God was in a ſhort time ſo defac'd and corrupted, that the world did laps into Polytheiſm and Idolatry, although it was ſetled in the heart of Noah, and firmly believ'd by him to be the way to Happineſs, and</hi>
+                  <pb n="137" facs="tcp:64301:80"/> 
+                  <hi>the contradicting and deſerting this to be the way to Miſery; and this Doctrin according to the Traditioniſts, muſt be ſuppos'd, to have been ſo taught to his children, and by them alſo to their Poſterity.</hi> To this I anſwer, <hi>firſt,</hi> that there is not the like reaſon why a <hi>Doctrin</hi> committed only to <hi>three Families,</hi> ſhould be ſo permanent, as that which is entruſted to <hi>millions</hi> of people, allbeit the <hi>Motives</hi> for the preſervation of it were the <hi>ſame.</hi> But I <hi>ſecondly</hi> anſwer, that the <hi>Motives</hi> for propagating <hi>Chriſtianity</hi> are far more <hi>excellent,</hi> then the <hi>Motives</hi> whith <hi>Noah</hi> and his <hi>Sons</hi> had for the continuing the belief of the <hi>one true God.</hi> For the <hi>expreſs motives</hi> in ancient time, both before, and under the <hi>Law,</hi> were only <hi>temporall rewards</hi> and <hi>puniſhments,</hi> which becauſe they were ſeen to befal the <hi>bad</hi> and <hi>good</hi> promiſcuouſly; in that ſome of both ſorts abounded with <hi>Riches</hi> and <hi>Honour,</hi> and others had
+<pb n="138" facs="tcp:64301:81"/> their <hi>afflictions;</hi> 'tis obvious to con<g ref="char:EOLhyphen"/>ceive, conſidering the frequent tenta<g ref="char:EOLhyphen"/>tions to Ambition, Luxury, and Ava<g ref="char:EOLhyphen"/>rice, that men would be farr leſs in<g ref="char:EOLhyphen"/>tent to regard <hi>Truth,</hi> and exerciſe acts of <hi>Piety</hi> and <hi>Vertue,</hi> when <hi>everlaſting Bliſs</hi> and <hi>Miſery</hi> were only gather'd by Conſequence to be the final Por<g ref="char:EOLhyphen"/>tion of <hi>good</hi> and <hi>evill</hi> men; then when in <hi>expreſs</hi> words they were con<g ref="char:EOLhyphen"/>ſtantly preſs'd, and inculcated as <hi>Mo<g ref="char:EOLhyphen"/>tives,</hi> the one to incline men to em<g ref="char:EOLhyphen"/>brace <hi>Truth</hi> and <hi>Goodneſs;</hi> the other, to deterr them from <hi>Error</hi> and <hi>Vice,</hi> as ſince the Preaching of <hi>Chriſts Goſpel</hi> they have ever been. Nei<g ref="char:EOLhyphen"/>ther, which I <hi>thirdly,</hi> and laſtly An<g ref="char:EOLhyphen"/>ſwer, will it be granted, That the <hi>Tradition</hi> of the <hi>one true God</hi> ever faild, or was totally loſt, till it ap<g ref="char:EOLhyphen"/>pear that <hi>Abraham</hi> and <hi>Lot,</hi> had not knowledge of <hi>Him</hi> from <hi>Sem,</hi> or ſome of his <hi>Progeny.</hi> Could <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> (ſaith Dr. <hi>Stillingfleet, Origin,</hi>
+                  <pb n="139" facs="tcp:64301:81"/> 
+                  <hi>Sacr. Book</hi> 2. <hi>Chap.</hi> 2. <hi>Sect.</hi> 9.) when he was contemporary with <hi>Sem,</hi> be ignorant of the Truth of the Flood, when <hi>Sem,</hi> from whom he deriv'd himſelf, was one of the Perſons who eſcap'd it in the <hi>Ark?</hi> Could <hi>Sem</hi> be ignorant of the actions before the Flood, when <hi>Adam,</hi> the firſt Man, lived ſome part of his time with <hi>Noah?</hi> And could <hi>Noah</hi> then be ig<g ref="char:EOLhyphen"/>norant of the <hi>Creation,</hi> and <hi>Fall</hi> of <hi>Man?</hi> The ſame Learned <hi>Author</hi> in the ſame Sect. a little before, writeth thus; <hi>Adam</hi> converſed ſometime with <hi>Noah; Sem</hi> his Son, was pro<g ref="char:EOLhyphen"/>bably living in ſome part of <hi>Jacobs</hi> time, or <hi>Iſaacs</hi> at leaſt; And how eaſily, and <hi>uninterruptedly</hi> might the general <hi>Tradition</hi> of the ancient <hi>Hi<g ref="char:EOLhyphen"/>ſtory,</hi> be continued thence to the time of <hi>Moſes,</hi> when the number of Fa<g ref="char:EOLhyphen"/>milies agreeing in this <hi>Tradition</hi> was increas'd, and withall incorporated by a common ligament of <hi>Religion?</hi>
+                  <pb n="140" facs="tcp:64301:82"/> I demand then (ſaith the Doctor) where can we ſuppoſe any ignorance, or cutting off this <hi>general Traditi<g ref="char:EOLhyphen"/>on,</hi> in ſo <hi>continued</hi> a <hi>Succeſſion</hi> as here was?</p>
+               <p>The latter <hi>Inſtance</hi> offerr'd to diſ<g ref="char:EOLhyphen"/>prove the <hi>Indefectibility</hi> of <hi>Traditi<g ref="char:EOLhyphen"/>on</hi> by, is about the <hi>Proceſſion</hi> of the <hi>Holy Ghoſt,</hi> which the <hi>Latin Church</hi> (ſaith the Objection) affirms, is from the <hi>Father,</hi> and the <hi>Son,</hi> and a <hi>ne<g ref="char:EOLhyphen"/>neſſary Article</hi> of <hi>Faith;</hi> the <hi>Greek Church</hi> holding, That He proceeds only from the <hi>Father,</hi> and not from the <hi>Son,</hi> diſowning any ſuch <hi>Doctrin</hi> to have been deliver'd to them by the <hi>precedent Age,</hi> or to any <hi>other Age</hi> of their <hi>Church,</hi> as the <hi>Doctrin</hi> of <hi>Chriſt;</hi> and yet no queſtion can be made, but that if the <hi>Proceſſion</hi> of the <hi>Holy Spirit</hi> from the <hi>Father</hi> and the <hi>Son,</hi> be an <hi>Article of Faith,</hi> it was taught in the <hi>Greek,</hi> as well as in the <hi>Latin Church;</hi> and there<g ref="char:EOLhyphen"/>fore
+<pb n="141" facs="tcp:64301:82" rendition="simple:additions"/> the <hi>Non-belief</hi> of it in the <hi>Greek Church,</hi> is an evident <hi>Argu<g ref="char:EOLhyphen"/>ment</hi> of the <hi>actual failure</hi> of <hi>Tradi<g ref="char:EOLhyphen"/>tion</hi> in <hi>this Point,</hi> and of the <hi>poſſibi<g ref="char:EOLhyphen"/>lity</hi> of it's failings in <hi>others</hi> alſo.</p>
+               <p>To this, I return, That ſeeing the <hi>Doctrin</hi> of the <hi>Bleſſed Trinity,</hi> and more eſpecially of the <hi>Holy Ghoſt</hi> was purpoſely handled in the <hi>Se<g ref="char:EOLhyphen"/>cond General Council</hi> held at <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> which was principally call'd for confuting and condemning <hi>Macedonius,</hi> who deni'd the <hi>Divinity</hi> of the <hi>Holy Ghoſt,</hi> and that neverthe<g ref="char:EOLhyphen"/>leſs, no mention is made in the <hi>Creed</hi> there ſet forth of his <hi>proceſſion,</hi> ſave from the <hi>Father,</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and alſo the ſame <hi>Creed</hi> was not only receiv'd but continued like<g ref="char:EOLhyphen"/>wiſe a long time after in the <hi>Latin Church,</hi> without the addition of <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> it ſeems ſtrongly probable (at leaſt) that the <hi>proceſſion</hi> of the <hi>Holy Ghoſt</hi> from the <hi>Son,</hi> was not thought
+<pb n="142" facs="tcp:64301:83"/> by the <hi>Conſtantinopolitan Fathers</hi> to be an <hi>Article</hi> of <hi>Catholick Faith,</hi> ſee<g ref="char:EOLhyphen"/>ing it was ſo obvious, ſo eaſie, and one would think ſo opportune alſo; after <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to have added <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, if they had indeed believ'd it to be an <hi>Article</hi> of <hi>Faith.</hi> The ex<g ref="char:EOLhyphen"/>cuſe that ſome make why they did it not, which is; that there was none as yet who denied the <hi>proceſſion</hi> of the <hi>Holy Ghoſt</hi> from the <hi>Son,</hi> ſeems tri<g ref="char:EOLhyphen"/>vial, ſince it was the very <hi>Divinity</hi> of the <hi>Holy Spirit</hi> that <hi>Macedonius</hi> oppos'd, which <hi>alone</hi> therefore, if the excuſe were good, ſhould haue been aſſerted by the <hi>Council;</hi> and the <hi>con<g ref="char:EOLhyphen"/>trary opinion</hi> thereto only condemned. But whatever was the cauſe or the occaſion why <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> was omitted (which I wave) this is certain that the <hi>Doctrin</hi> of the <hi>Holy Ghoſts proceſſion</hi> from the <hi>Son,</hi> is either an <hi>Article</hi> of <hi>Catholic Faith,</hi> or it is not; if it be not, <hi>Tradition</hi> is no way concern'd, let the
+<pb n="143" facs="tcp:64301:83"/> 
+                  <hi>Greeks</hi> and <hi>Latins</hi> too hold whether way they pleaſe about it. If it be an <hi>Article</hi> of <hi>Faith,</hi> and that the <hi>Greek</hi> and <hi>Latin Churches</hi> agree in the <hi>ſub<g ref="char:EOLhyphen"/>ſtance</hi> and <hi>ſence</hi> of it, and differ only in the manner of the <hi>expreſſion,</hi> there has been no <hi>failure</hi> of <hi>Tradition</hi> in the <hi>Greek Church</hi> concerning the <hi>pro<g ref="char:EOLhyphen"/>ceſſion</hi> of the <hi>Holy Ghoſt.</hi> Foraſmuch then as it remains only to be known, whether the <hi>Greeks</hi> and <hi>Latins</hi> agree in <hi>Sence,</hi> though they differ in <hi>words,</hi> or the <hi>Greeks</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>per Filium</hi> be the ſame in effect with the <hi>Latin</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>á Filio,</hi> let's ſee what the <hi>Roman Doctors</hi> (who we may be ſure will be no more favourable to the <hi>Greeks</hi> then's fitting) ſay to't. <hi>Peter Lombert,</hi> writing of the <hi>Proceſſion</hi> of the <hi>Holy Ghoſt</hi> from the <hi>Father</hi> and the <hi>Son,</hi> ſaith; <hi>Sciendum eſt quòd</hi> Graeci <hi>confitentur Spiritum Sanctum, eſſe Filii ſicut &amp; Patris, quia &amp; Apoſto<g ref="char:EOLhyphen"/>lus dicit Spiritum Filii, &amp; Veritas</hi>
+                  <pb n="144" facs="tcp:64301:84"/> 
+                  <hi>in Evangelio Spiritum Veritatis. Sed cùm non ſit aliud Spiritum Sanctum eſſe Patris vel Filii, quàm eſſe à Pa<g ref="char:EOLhyphen"/>tre &amp; Filio, etiam in hoc in eandem, nobiſcum Fidei ſententiam convenire videntur, licet in verbis diſſentiant. Unde etiam quidam eorum Catholici Doctores intelligentes unam eandémque, fore ſententiam praedictorum verbo<g ref="char:EOLhyphen"/>rum, quibus dicitur Spiritus Sanctus procedere à Filio, &amp; eſſe Filii, pro<g ref="char:EOLhyphen"/>feſſi ſunt Spiritum Sanctum etiam procedere à Filio, Lib.</hi> 1. <hi>Sentent. Diſtinct.</hi> 11. <hi>D. E.</hi> Where the ſame <hi>Author</hi> goes on, to ſhew, That ſe<g ref="char:EOLhyphen"/>veral eminent <hi>Greek Fathers, Atha<g ref="char:EOLhyphen"/>naſius, Didymus, Cyrillus,</hi> and <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom</hi> accord even in <hi>expreſſions</hi> alſo about the <hi>Proceſſion</hi> of the <hi>Holy Ghoſt. Aquinas</hi> propounding the Que<g ref="char:EOLhyphen"/>ſtion, <hi>Utrum Spiritus Sanctus proce<g ref="char:EOLhyphen"/>dat à Patre per Filium,</hi> concludes <hi>af<g ref="char:EOLhyphen"/>firmatively,</hi> and anſwers <hi>Objections</hi> made to the contrary, as is to be ſeen
+<pb n="145" facs="tcp:64301:84"/> 
+                  <hi>Part prima. Quaeſt.</hi> 26. <hi>Artic.</hi> 3. Yea, and Mr. <hi>White,</hi> however in the <hi>Apo<g ref="char:EOLhyphen"/>logie</hi> for <hi>Tradition,</hi> he calls the <hi>Greeks</hi> aſſertion, concerning the <hi>Holy Ghoſts Proceſſion,</hi> (as is truely ſaid of him) a meer <hi>negative Tradition,</hi> or a <hi>De<g ref="char:EOLhyphen"/>nial</hi> that they have any ſuch <hi>Tradi<g ref="char:EOLhyphen"/>tion,</hi> that the <hi>Holy Spirit proceeds from the Father and the Son;</hi> yet, explicating els where, the <hi>ſacred My<g ref="char:EOLhyphen"/>ſtery</hi> of the <hi>Bleſſed Trinity,</hi> averrs it to be a more ſignificant Speech to ſay, that the <hi>Holy Ghoſt</hi> proceeds from the <hi>Father by</hi> the <hi>Son,</hi> then <hi>from</hi> the <hi>Father</hi> and the <hi>Son,</hi> which in illuſtrating the <hi>Doctrine</hi> of the <hi>Trinity</hi> by <hi>Cognitum, Cognitio &amp; Amor,</hi> he thus ſhews; <hi>Patet vim motivam quae eſt in Bono cognito, eſſe totam in ratione Boni, rationem veró cognitionis non eſſe, niſi conjunctionem hujus virtutis ad movendum; quare alio modo dicitur tertia Perſona Pro<g ref="char:EOLhyphen"/>cedere à Patre, &amp; alio modo à Filio; &amp;</hi>
+                  <pb n="146" facs="tcp:64301:85"/> 
+                  <hi>quaſi directè &amp; principaliter à Patre, &amp; à Filio, non niſi concomitanter ſeu tanquam à modo Cauſae. Unde non mirum, ſi Chriſtus Dominus, &amp; ali<g ref="char:EOLhyphen"/>qui Patres diſertè, dicant eum proce<g ref="char:EOLhyphen"/>dere à Patré, ſine mentione Filii; unde intelligitur, quòd ſit magis ex<g ref="char:EOLhyphen"/>preſſiva locutio dicere, quòd procedit à Patre per Filium; quàm quòd proce<g ref="char:EOLhyphen"/>dit à Patre &amp; Filio. Cùm enim per quaſi viam, &amp; medium denotet, im<g ref="char:EOLhyphen"/>poſſibile eſt procedere per Filium, &amp; non à Filio, quia omnis pars viae re<g ref="char:EOLhyphen"/>ſpectu termini, habet rationem termi<g ref="char:EOLhyphen"/>ni à quo &amp; principii, unde ly pèr explicat &amp; eſſe à, &amp; à non primo principio.</hi>
+               </p>
+            </div>
+            <div n="11" type="section">
+               <pb n="147" facs="tcp:64301:85"/>
+               <head>
+                  <hi>SECT. XI.</hi> What rational aſſurance we have, That Scripture is not corrupted in Neceſſaries to ſalvation. The way to know what things have been ever Orally taught. Two Reaſons given, why Tradition, though it be of an indefectible nature, ſhould not be the <hi>Rule of Faith.</hi> Whether a fundamen<g ref="char:EOLhyphen"/>tal Error, can ever obtain a <hi>a ſetled</hi> quiet poſſeſſion in the viſible Church? An offer from Reaſon, for the impoſſibility of the thing. Errors not-fundamen<g ref="char:EOLhyphen"/>tal, may overſpread the Church, and why? Several inſtances of ſuch Errors in the <hi>Roman</hi> Church.</head>
+               <pb n="148" facs="tcp:64301:86"/>
+               <p> 
+                  <hi>THe</hi> practical delivery <hi>of</hi> Chriſts Doctrine <hi>never (as has been ſeen)</hi> failing; <hi>it may, by carefully ſearching the</hi> Scripture, <hi>be known,</hi> what things <hi>contain'd in it are of</hi> ne<g ref="char:EOLhyphen"/>ceſſity <hi>to be</hi> generally believ'd <hi>and</hi> pra<g ref="char:EOLhyphen"/>ctic'd <hi>(becauſe no</hi> more <hi>is ſo, but what has been</hi> always believ'd, <hi>and</hi> practic'd <hi>by</hi> Chriſtians) <hi>provided aſſu<g ref="char:EOLhyphen"/>rance may be had,</hi> what <hi>has been</hi> ever practically deliver'd; <hi>and that</hi> Scripture <hi>is not</hi> corrupted <hi>in ſuch pla<g ref="char:EOLhyphen"/>ces of it, as contain the</hi> Neceſſaries <hi>to</hi> ſalvation, <hi>or</hi> Articles <hi>of</hi> Catholick <hi>and</hi> Apoſtolick Faith.</p>
+               <p>
+                  <hi>For the</hi> latter, <hi>(which I'le firſt in<g ref="char:EOLhyphen"/>ſiſt on) That</hi> Scripture <hi>is not</hi> cor<g ref="char:EOLhyphen"/>rupted <hi>in</hi> neceſſary Points, <hi>I ſhall briefly ſay but this; Since the</hi> actings <hi>of</hi> Gods Providence <hi>are not known to us, but as they are ſeen in</hi> ſecond Cauſes, <hi>the moſt rational account we have, That</hi> Scripture <hi>is come ſafe to our hands, without</hi> Corruption in all things
+<pb n="149" facs="tcp:64301:86"/> of neceſſity to be generally believ'd, and practic'd, <hi>is from hence; that</hi> Scripture <hi>being conſtantly read by multitudes of</hi> Knowing Chriſtians, <hi>could not poſſibly be corrupted in</hi> Texts <hi>containing ſuch things as were perpetually</hi> taught, repeated, <hi>and</hi> pra<g ref="char:EOLhyphen"/>ctic'd <hi>in the</hi> Church <hi>(of which ſort the</hi> Neceſſaries <hi>to</hi> Salvation <hi>are) with<g ref="char:EOLhyphen"/>out being taken</hi> notice <hi>of, and if occa<g ref="char:EOLhyphen"/>ſion requir'd,</hi> rectified.</p>
+               <p>
+                  <hi>As for ſatisfaction in the other difficulty,</hi> viz. What things have been ever orally taught, <hi>this in general, from what has been ſayd, appears certain, that</hi> no Point of Chriſt's Doctrin <hi>ſhall</hi> ever fail. <hi>And although in this or that Place, the continuance of</hi> Chri<g ref="char:EOLhyphen"/>ſtian Faith <hi>be not</hi> neceſſary, <hi>yet where ever there has been a</hi> viſible great Society <hi>of</hi> Chriſtians, <hi>wherein it was once</hi> firmly <hi>ſetled, and which has had a conſtant</hi> ſucceſſion <hi>of</hi> Paſtors <hi>continued in it,</hi> nothing <hi>held by that</hi>
+                  <pb n="150" facs="tcp:64301:87"/> ſociety <hi>to be an</hi> Article <hi>of</hi> Faith, <hi>could</hi> totally <hi>ceaſe to be ſo eſteem'd, unleſs ſo vaſt a</hi> Body <hi>(in which there would be in every Age a conſiderable num<g ref="char:EOLhyphen"/>ber of</hi> wiſe <hi>and</hi> pious <hi>men) could either be</hi> univerſally <hi>impos'd on by</hi> fraud, <hi>or forc'd by</hi> violence; <hi>or that</hi> all <hi>it's</hi> Members <hi>would</hi> careleſsly <hi>neg<g ref="char:EOLhyphen"/>lect, or</hi> wilfully <hi>forſake, what they believ'd to be a</hi> neceſſary <hi>Means to ſave</hi> themſelves, <hi>and their</hi> Poſterity <hi>from</hi> endleſs Torment, <hi>and to bring them to</hi> everlaſting Jay. Univerſally <hi>then</hi> ſuch <hi>a</hi> Body <hi>could neither</hi> deſert, <hi>nor</hi> looſe <hi>it's</hi> Faith, <hi>in any</hi> neceſſary Point. <hi>And in caſe any</hi> remarkable <hi>Member, or Part thereof, ſhould ever do it, 'twould be known, and pre<g ref="char:EOLhyphen"/>ſently oppos'd by the</hi> ſound <hi>Part ad<g ref="char:EOLhyphen"/>hering to the</hi> Truth, <hi>as conſtant</hi> Ex<g ref="char:EOLhyphen"/>perience <hi>has made evident in the timely reſiſting of</hi> all Hereſies. <hi>This, if granted to be true, plain reaſon will enforce our aſſent, that the</hi> La<g ref="char:EOLhyphen"/>tin
+<pb n="151" facs="tcp:64301:87"/> 
+                  <hi>or</hi> Weſtern Church, <hi>being</hi> ſuch <hi>a</hi> Society, <hi>as is before mentioned, did at the begining of the</hi> Reformation, <hi>and ſtill does hold and maintain</hi> all the Articles <hi>of</hi> Catholick <hi>and</hi> Apo<g ref="char:EOLhyphen"/>ſtolick Faith.</p>
+               <p>Obiection, <hi>If the</hi> Latin, <hi>or</hi> Weſtern Church, <hi>when the</hi> Reformation <hi>begun, did really hold</hi> all the Articles of Catho<g ref="char:EOLhyphen"/>lick <hi>and</hi> Apoſtolick Faith, <hi>by vertue of</hi> Oral Tradition <hi>communicating the ſame unto it; what good cauſe can be ſhewn, why</hi> Tradition <hi>ſhould not be the</hi> Rule of Faith, <hi>even without ha<g ref="char:EOLhyphen"/>ving the</hi> Doctrins <hi>it delivers confirm'd by</hi> parallel Texts <hi>of</hi> Holy Writ?</p>
+               <p>Anſwer, <hi>ſince the</hi> Rule of Faith <hi>muſt doubtleſs be that, into which it is</hi> ultimatly <hi>reſolv'd, as the</hi> beſt <hi>and</hi> higheſt Means <hi>of aſcertaining</hi> Chriſts Doctrin <hi>to Mankind; and that the</hi> ſame <hi>muſt contain in it no</hi> Error; <hi>this</hi> Inference <hi>(I think) will be clear; that</hi> in <hi>caſe</hi> Oral Tradition, <hi>or
+<pb n="152" facs="tcp:64301:88"/> the</hi> Living voice of the Church, <hi>ei<g ref="char:EOLhyphen"/>ther be not the</hi> beſt <hi>and</hi> higheſt means <hi>whereby to aſcertain</hi> Chriſts Doctrin <hi>to Mankind; or that it may deliver, or teach an</hi> Error <hi>under the notion of an</hi> Article <hi>of</hi> Faith, <hi>it cannot be in juſtice eſteem'd the</hi> Rule of Faith. <hi>And that</hi> Oral Tradition, <hi>or the</hi> Living voice of the Church, <hi>is not the</hi> beſt, <hi>and</hi> higheſt means <hi>whereby to aſcertain</hi> Chriſts Doctrin <hi>to Man<g ref="char:EOLhyphen"/>kind, the following</hi> Paragraph <hi>(I think) will make good.</hi>
+               </p>
+               <p>
+                  <hi>Where</hi> two Teſtimonies <hi>both averr and atteſt the</hi> ſame thing; <hi>if the</hi> one <hi>be of</hi> Divine, <hi>the</hi> other <hi>but of</hi> Hu<g ref="char:EOLhyphen"/>mane Authority; <hi>the</hi> Teſtimony <hi>that is</hi> Divine <hi>ought of</hi> Right <hi>to have the</hi> preeminence, <hi>and the</hi> relyance <hi>for the</hi> verity <hi>of what is</hi> witneſſed <hi>by them, is to be</hi> ultimatly <hi>caſt upon it. See<g ref="char:EOLhyphen"/>ing then the</hi> Teſtimony <hi>of</hi> Scripture <hi>is</hi> Divine, <hi>as being,</hi> ex confeſſo, <hi>the</hi> Word of God; <hi>and</hi> Tradition <hi>but
+<pb n="153" facs="tcp:64301:88"/> an</hi> Humane Witneſs, <hi>foraſmuch as it is ſaid to be the</hi> Delivery of Chriſts Doctrine <hi>in the</hi> various expreſſions <hi>of</hi> Paſtors, Parents, Tutors, Maſters <hi>of</hi> Families, <hi>and</hi> Nurſes, <hi>'tis moſt rea<g ref="char:EOLhyphen"/>ſonable, that Faith ſhould be</hi> finally <hi>re<g ref="char:EOLhyphen"/>ſolved into Scripture, (and not into</hi> Tradition) <hi>as it's</hi> Rule. <hi>Yea and albeit</hi> Tradition <hi>may peradventure in</hi> ſome <hi>things be thought more plain then</hi> Scripture; <hi>(as for example, ſuppoſe in the Point of</hi> Chriſts Divinity, <hi>theſe words of the</hi> Nicene Creed; Deum de Deo, Lumen de Lumine, De<g ref="char:EOLhyphen"/>um verum de Deo vero; genitum non factum, conſubſtantialem Patri per quem omnia facta ſunt;) <hi>yet that</hi> Scripture <hi>ſhould be ſtill eſteem'd the</hi> Text, <hi>and</hi> Tradition <hi>but the</hi> beſt, <hi>and</hi> moſt certain Comment <hi>upon it, I ga<g ref="char:EOLhyphen"/>ther from hence, That it cannot well be otherwiſe thought, but that even the</hi> Diſciples <hi>of the</hi> Apoſtles <hi>after the</hi> Books <hi>of the</hi> New Teſtament were
+<pb n="154" facs="tcp:64301:89"/> publiſh'd <hi>and receiv'd among</hi> Chriſti<g ref="char:EOLhyphen"/>ans, <hi>would themſelves confirm to their</hi> Auditors, <hi>what they told them they had been</hi> Orally <hi>taught by the</hi> Apoſtles, <hi>out of the</hi> written Word; <hi>becauſe the</hi> very ſayings <hi>of</hi> Chriſt himſelf, <hi>and his</hi> divinely inſpir'd Apoſtles, <hi>would in common prudence be thought to be of greater</hi> weight <hi>and</hi> authority <hi>with them, then their</hi> own; <hi>although beleiv'd to be eſteem'd by the people, as true and certain, as any whatſoever, not of more then</hi> Humane Authority.</p>
+               <p>
+                  <hi>Having found then (I ſuppoſe) one reaſon, why</hi> Tradition <hi>ought not to be held the</hi> Rule of Faith; <hi>I'le make tryal if in another ſenſe alſo, it be not incapable of being juſtly ſo re<g ref="char:EOLhyphen"/>puted; for if the</hi> preſent Church <hi>of any one Age, can teach us an</hi> Arti<g ref="char:EOLhyphen"/>cle of Faith <hi>what is not ſo, but in<g ref="char:EOLhyphen"/>deed an</hi> Error; <hi>then is not</hi> Tradi<g ref="char:EOLhyphen"/>tion <hi>the</hi> Rule of Faith. <hi>Now to find out, whether the</hi> Church, <hi>in any one
+<pb n="155" facs="tcp:64301:89"/> Age, can do ſo, or not, this will be a ſure way, to try, if diſcovery can be made. That any</hi> Error <hi>has been ever taught by the</hi> Catholick Church, <hi>or by any known, and acknowledg'd</hi> Part <hi>of it, as an</hi> Article of Faith; <hi>for if that can be done, the</hi> poſſibi<g ref="char:EOLhyphen"/>lity <hi>of the thing, is put out of doubt thereby.</hi>
+               </p>
+               <p>
+                  <hi>To make a clear diſcourſe on this ſubject, 'twill be expedient to conſi<g ref="char:EOLhyphen"/>der, That there be</hi> two <hi>ſorts of</hi> Er<g ref="char:EOLhyphen"/>rors <hi>in</hi> Matters <hi>of</hi> Religion; Fun<g ref="char:EOLhyphen"/>damental, <hi>and</hi> not Fundamental. <hi>By</hi> Fundamental, <hi>I mean, ſuch as either</hi> immediatly <hi>and</hi> directly, <hi>or, at leaſt, by</hi> neceſſary <hi>and</hi> apparent <hi>Conſe<g ref="char:EOLhyphen"/>quence, contradict ſome</hi> Articles <hi>of</hi> Catholick Faith; <hi>by</hi> not-Fundamen<g ref="char:EOLhyphen"/>tal, <hi>I mean, ſuch as</hi> evidently <hi>do</hi> nei<g ref="char:EOLhyphen"/>ther. <hi>This</hi> Diſtinction <hi>premis'd, and allow'd of; ſince 'tis clear (as I take it) by what has been ſaid of the</hi> Motives <hi>and</hi> Means <hi>of perpetuating</hi>
+                  <pb n="156" facs="tcp:64301:90"/> Chriſts Doctrin <hi>in the World, that no</hi> Article <hi>of</hi> Catholick Faith <hi>can ever</hi> periſh <hi>or</hi> ceaſe <hi>to be</hi> beleiv'd; <hi>'twill follow, that no</hi> Fundamental Error <hi>can at any time get a</hi> ſetled <hi>and</hi> quiet poſſeſſion <hi>in the</hi> Church, <hi>but ſhall always, after it is taken notice of, find</hi> oppoſition <hi>by</hi> Orthodox Chriſtians, <hi>becauſe they cannot chuſe but ſee, that the</hi> embracing <hi>of it would neceſſarily deſtroy the</hi> contrary Divine Truth <hi>firmly held (by ſo many, at leaſt, as rightly conſider the matter) to be</hi> neceſſary <hi>to</hi> Salvation. <hi>Of the aſſured certainty of this, we have a famous</hi> Inſtance <hi>in the</hi> Arian Hereſie, <hi>which though eagerly pro<g ref="char:EOLhyphen"/>moted by the</hi> Wit <hi>and</hi> induſtry <hi>of moſt</hi> cunning <hi>and</hi> reſtleſs Heretics, <hi>and ſtiffly back'd and countenanc'd by the</hi> Authority <hi>of ſeveral great</hi> Prelats, <hi>aſſiſted with the</hi> might <hi>and</hi> power <hi>of</hi> Temporal Potentates <hi>and</hi> Princes; <hi>yet was ſtill</hi> oppos'd; <hi>and when</hi> frau<g ref="char:EOLhyphen"/>dulent
+<pb n="157" facs="tcp:64301:90"/> 
+                  <hi>and</hi> violent means <hi>had tyr'd and ſpent themſelves, the</hi> oppoſit Truth <hi>prevail'd, and ſhew'd it ſelf more</hi> glorious <hi>then before. But as for</hi> Errors not-Fundamental, <hi>or whoſe</hi> oppoſition <hi>to any</hi> Article of Faith <hi>is not ſeen, becauſe too</hi> remotely <hi>con<g ref="char:EOLhyphen"/>tradictory thereto to be eaſily diſ<g ref="char:EOLhyphen"/>cern'd; if</hi> ſuch <hi>once come to be re<g ref="char:EOLhyphen"/>ceiv'd as</hi> pious Opinions, <hi>and promo<g ref="char:EOLhyphen"/>ted by the</hi> Schoolmen, <hi>I do not un<g ref="char:EOLhyphen"/>derſtand, why they may not in long continuance of time, be advanc'd to the</hi> repute <hi>of being eſteem'd</hi> Arti<g ref="char:EOLhyphen"/>cles <hi>of</hi> Faith. <hi>For proof of the truth of which, I'le produce ſome few</hi> In<g ref="char:EOLhyphen"/>ſtances <hi>in the</hi> Doctrin <hi>of the</hi> Church <hi>of</hi> Rome.</p>
+               <p>
+                  <hi>The</hi> firſt <hi>ſhall be this, That the</hi> Council <hi>of</hi> Trent <hi>has</hi> deſin'd Seſs. 7. Can. 9. <hi>That there is a</hi> Character, <hi>or</hi> certain ſpiritual ſign, <hi>or</hi> mark im<g ref="char:EOLhyphen"/>printed in the ſouls of all that are Baptiz'd, Confirm'd, <hi>and</hi> Ordain'd,
+<pb n="158" facs="tcp:64301:91"/> 
+                  <hi>which yet I find diſprov'd by an eminently Learned Gentleman of the</hi> Romiſh Church, <hi>(if I underſtand the</hi> Council <hi>and</hi> Him <hi>aright) in his</hi> Inſtitut. Sacr. Tom. 2. Lect. 4. Pag. 32. as was ſhewn before in Sect. 4. <hi>of this</hi> Treatiſe, <hi>and ſo ſuperfluouſly to be here again ſet down.</hi>
+               </p>
+               <p>
+                  <hi>A</hi> ſecond <hi>Inſtance, is the</hi> Belief of freeing ſouls from Purgatory, and bringing them thence to Heaven be<g ref="char:EOLhyphen"/>fore the day of Judgement, <hi>which Opinion, the laſt mentioned</hi> Author, Thomas Albius <hi>in his</hi> Book, De me<g ref="char:EOLhyphen"/>dio animarum ſtatu, <hi>has prov'd to be</hi> erronious. <hi>'Tis true indeed, he ſaies, That it is no</hi> Article <hi>of the</hi> Roman Faith; <hi>and I find the</hi> Trent Council, <hi>in</hi> diſertis verbis, <hi>to affirm only this,</hi> Purgatorium eſſe, animàſ<g ref="char:EOLhyphen"/>que ibi detentas fidelium ſuffragiis, potiſſimùm verò acceptabili Altaris Sa<g ref="char:EOLhyphen"/>crificio juvari. Decret. de Purgatorio, Seſs. 25. <hi>But the</hi> Popes <hi>granting</hi> In<g ref="char:EOLhyphen"/>Indulgences,
+<pb n="159" facs="tcp:64301:91"/> 
+                  <hi>and</hi> Priviledg'd Altars, Prieſts <hi>ſaying of</hi> Maſſes, <hi>and the</hi> Peoples praying, <hi>and</hi> giving Alms <hi>for the</hi> delivery <hi>of</hi> ſouls <hi>out of</hi> Purga<g ref="char:EOLhyphen"/>tory, <hi>ſhould better (an indifferent per<g ref="char:EOLhyphen"/>ſon would be apt to think) expound and declare the</hi> Churches ſenſe, <hi>(or</hi> intention <hi>of</hi> Paſtors, Parents, Tu<g ref="char:EOLhyphen"/>tors, Maſter <hi>of</hi> Families, <hi>and</hi> Nurſes) <hi>of the word</hi> juvari, <hi>then any</hi> privat Doctor <hi>whatſoever. Yea, and if Ma<g ref="char:EOLhyphen"/>ſter</hi> Whites Adverſaries <hi>in this</hi> Point <hi>ſhould urge, That there is a</hi> plain pra<g ref="char:EOLhyphen"/>ctical Tradition <hi>for the truth of the</hi> delivery of ſouls from Purgatory be<g ref="char:EOLhyphen"/>fore the day of Judgement, by the help of Indulgences, Maſſes, Prayers, <hi>and</hi> Alms, <hi>it would have ſome diffi<g ref="char:EOLhyphen"/>culty in it to diſprove them. For that the</hi> Members <hi>of the</hi> Roman Church, <hi>do not only generally uſe thoſe things to that end and purpoſe, but were alſo taught by the</hi> preceding Age <hi>to do ſo, will not (I preſume) be
+<pb n="160" facs="tcp:64301:92"/> deni'd; ſo that unleſs they were told by the</hi> Recommenders <hi>of the</hi> Practice, <hi>that it was the</hi> Product <hi>of a</hi> pious Opinion <hi>only grounded on</hi> probability; <hi>(which I cannot conjecture any like<g ref="char:EOLhyphen"/>lihood of being done by</hi> Paſtors, Pa<g ref="char:EOLhyphen"/>rents, Guardians, Maſters <hi>of</hi> Fami<g ref="char:EOLhyphen"/>lies, <hi>and</hi> Nurſes, <hi>who moſt common<g ref="char:EOLhyphen"/>ly, rather preſs the</hi> neceſſity <hi>of what they teach, then otherwiſe) I appre<g ref="char:EOLhyphen"/>hend not how they ſhould imbrace it, ſave on the</hi> ſame Terms <hi>they did</hi> other practical <hi>things of their</hi> Reli<g ref="char:EOLhyphen"/>gion <hi>which they judg'd to be of</hi> Ca<g ref="char:EOLhyphen"/>tholick uſe <hi>and</hi> neceſſity.</p>
+               <p>
+                  <hi>A</hi> third <hi>Inſtance, ſhall be the</hi> Do<g ref="char:EOLhyphen"/>ctrine <hi>of</hi> Tranſubſtantiation, <hi>which if it neceſſarily imply a</hi> Contradiction, <hi>is doubtleſs an</hi> Error; <hi>and to prove it doth, I will, of many</hi> Arguments <hi>that might be urg'd, make uſe only of</hi> two, <hi>when I have firſt ſet down</hi> three <hi>things, which by the</hi> Traditio<g ref="char:EOLhyphen"/>niſts, <hi>I am ſure, by ſome of them,
+<pb n="161" facs="tcp:64301:92"/> will be granted, to be</hi> all <hi>of them</hi> truths. <hi>The</hi> firſt <hi>is, That</hi> Tranſub<g ref="char:EOLhyphen"/>ſtantiation, is a converſion of the Bread into the Body, and the Wine into the Blood of Chriſt. <hi>The</hi> ſecond <hi>is, That a</hi> Body hath extenſion, <hi>or</hi> partes extra partes. <hi>The</hi> third <hi>thing is this, That</hi> How many Hoſts, or con<g ref="char:EOLhyphen"/>conſecrated Elements ſoever they be, Chriſts Body is nevertheleſs but one. <hi>Theſe three</hi> Propoſitions <hi>preſuppos'd as true; I argue, That the</hi> Doctrin <hi>of</hi> Tranſubſtantiation <hi>implies a</hi> Contra<g ref="char:EOLhyphen"/>diction, <hi>in manner following.</hi>
+               </p>
+               <p>
+                  <hi>Whoſoever teacheth, That one and the ſame Body, may be equally ex<g ref="char:EOLhyphen"/>tended; and not equally extended, at one and the ſame time, teacheth, in effect, a Contradiction to be true.</hi>
+               </p>
+               <p>
+                  <hi>But whoſoever teacheth the Do<g ref="char:EOLhyphen"/>ctrin of Tranſubſtantiation, teacheth, that one and the ſame Body may be equally extended, and not equally ex<g ref="char:EOLhyphen"/>tended at one and the ſame time.</hi> Ergo,</p>
+               <pb n="162" facs="tcp:64301:93"/>
+               <p> 
+                  <hi>Whoſoever teacheth the Doctrine of Tranſubſtantiation, teacheth, in effect, a Contradiction to be true.</hi>
+               </p>
+               <p>
+                  <hi>The reaſon of the</hi> Major <hi>is this;</hi> Corpus &amp; quoquoverſus extenſum, vel quod habet partes extra partes, <hi>ſigni<g ref="char:EOLhyphen"/>fie the</hi> ſame <hi>thing, and to be equally extended, and not equally extended, is one with this, to be extended to one and the ſame degree, and not be extended to one and the ſame de<g ref="char:EOLhyphen"/>gree, which to befal one and the ſame thing, at one and the ſame time, is certainly</hi> contradictory; <hi>ſince (in re<g ref="char:EOLhyphen"/>gard a</hi> Body <hi>and a</hi> Thing every way extended <hi>differ not) 'tis in effect to be one and the ſame thing and not one and the ſame thing at once, or the ſame thing not to be the ſame thing with it ſelf.</hi>
+               </p>
+               <p>
+                  <hi>The evidence for the truth of the</hi> Minor <hi>is no leſs then for that of the</hi> Major; <hi>for ſince according to the Doctrin of</hi> Tranſubſtantiation, Chriſts
+<pb n="163" facs="tcp:64301:93"/> Body <hi>is every where</hi> one <hi>and the ſame</hi> Body, <hi>and the</hi> conſecrated Elements <hi>are</hi> many, <hi>(either Subſtances or Acci<g ref="char:EOLhyphen"/>dents) 'twill follow, That as often as the</hi> Eléments <hi>are at the ſame time of</hi> different <hi>ſizes or bigneſs, the</hi> Body <hi>of</hi> Chriſt, <hi>which is neither</hi> more <hi>nor</hi> leſs <hi>extended on the</hi> Altar <hi>then the</hi> Ele<g ref="char:EOLhyphen"/>ments, <hi>muſt be of an</hi> unequal <hi>big<g ref="char:EOLhyphen"/>neſs at the</hi> ſame <hi>time; or be</hi> equally, <hi>and</hi> not-equally, <hi>or juſt to</hi> ſuch <hi>a</hi> de<g ref="char:EOLhyphen"/>gree, <hi>and not juſt to</hi> ſuch <hi>a</hi> degree <hi>of bigneſs extended in</hi> one <hi>moment of time; For example, The</hi> Body <hi>of</hi> Chriſt <hi>under the</hi> Elements <hi>extended in one place to</hi> two <hi>degrees, and the</hi> ſame Body <hi>under the</hi> Elements <hi>ex<g ref="char:EOLhyphen"/>tended in another place to</hi> three <hi>de<g ref="char:EOLhyphen"/>grees, would be at the ſame time ex<g ref="char:EOLhyphen"/>tended juſt to</hi> two <hi>degrees, and</hi> not <hi>juſt to</hi> two <hi>degrees; and likewiſe juſt to</hi> three <hi>degrees, and</hi> not <hi>juſt to</hi> three <hi>degrees; which to ſuppoſe a truth (ſeeing a</hi> Body, <hi>and a</hi> Thing
+<pb n="164" facs="tcp:64301:94"/> every way extended <hi>is the ſame) were to put a thing to be not the ſame thing which it is.</hi>
+               </p>
+               <p>
+                  <hi>Another</hi> Argument <hi>is offerr'd a<g ref="char:EOLhyphen"/>gainſt</hi> Tranſubſtantiation <hi>thus;</hi>
+               </p>
+               <p>
+                  <hi>To affirme</hi> Chriſts Body <hi>to be</hi> greater <hi>and leſs then it ſelf at the ſame time, is, in effect, to affirm a Contradiction true.</hi>
+               </p>
+               <p>
+                  <hi>But to affirm</hi> Chriſts Body <hi>to be in two or more diſtinct places at once, (as thoſe who will defend</hi> Tranſub<g ref="char:EOLhyphen"/>ſtantiation <hi>muſt do) is to affirm it to be greater and leſs then it ſelf at the ſame time:</hi> Ergo;</p>
+               <p>
+                  <hi>To affirm</hi> Chriſts Body <hi>to be in two, or more diſtinct places at once, is, in effect, to affirm a Contradicti<g ref="char:EOLhyphen"/>on true.</hi>
+               </p>
+               <p>
+                  <hi>The truth of the</hi> Major, <hi>is clear from hence, That it is the ſame for a Body (or a thing extended) to be greater and leſs then it ſelf at the ſame time, as to be, and not to be the ſame
+<pb n="165" facs="tcp:64301:94"/> with it ſelf; which is impoſſible.</hi>
+               </p>
+               <p>
+                  <hi>And the</hi> Minor <hi>is equally certain, for ſince two diſtinct places are of larger extent then one, and that</hi> locus <hi>and</hi> locatum <hi>are</hi> commenſurat; <hi>if one Body fill diſtinctly and apart one place, and yet, at the ſame time, fill another alſo, it will, of neceſſity, be greater and leſs then it ſelf, whilſt filling only one place, it will be leſs then it ſelf filling two; and filling two, it will be greater then it ſelf fil<g ref="char:EOLhyphen"/>ling only one.</hi>
+               </p>
+               <p>
+                  <hi>Some</hi> Romaniſts <hi>I know will make light of all this I have ſaid againſt</hi> Tranſubſtantiation, <hi>and think to con<g ref="char:EOLhyphen"/>fute it by flatly denying, that a</hi> Body <hi>and</hi> Thing extended <hi>is all one; but of ſuch I would fain learn, what a</hi> Body <hi>then is, or how a</hi> corporeal <hi>ſub<g ref="char:EOLhyphen"/>ſtance, as ſuch is diſtinguiſh'd from an</hi> incorporeal, <hi>a</hi> material <hi>from an</hi> immaterial, <hi>otherways then by</hi> ex<g ref="char:EOLhyphen"/>tenſion, <hi>or having</hi> partes extra partes,
+<pb n="166" facs="tcp:64301:95"/> 
+                  <hi>by which it is contiguous to the ſe<g ref="char:EOLhyphen"/>veral diſtinct ſides of the ambient Body or Bodies that encompaſs it; whereas an</hi> incorporeal <hi>or</hi> immaterial <hi>ſubſtance having no ſuch parts, is of neceſſity</hi> all together <hi>whereſoever it is. If it were ſaid, that a</hi> material <hi>ſub<g ref="char:EOLhyphen"/>ſtance is not of neceſſity</hi> actually <hi>ex<g ref="char:EOLhyphen"/>tended, yet</hi> naturally <hi>capable of be<g ref="char:EOLhyphen"/>ing ſo, which an</hi> immaterial <hi>is not; I deſire to be reſolv'd, whether by nature, and creation, there be or ever was, any</hi> material ſubſtance <hi>in the world without</hi> extenſion; <hi>if they yield (as I aſſure my ſelf they will) there neither is, nor ever was; I ſhall take their conceſſion for a grant, that it is a</hi> natural <hi>and innate property of</hi> matter <hi>to have</hi> extenſion; <hi>and conſe<g ref="char:EOLhyphen"/>quently from thence inferr; that if</hi> Chriſts Body, <hi>in the</hi> Euchariſt <hi>be</hi> un<g ref="char:EOLhyphen"/>extended, <hi>'tis either an</hi> immaterial <hi>ſubſtance, that is, a</hi> Spirit <hi>and no</hi> Body; <hi>or els a</hi> new <hi>kind of</hi> Being, <hi>which is
+<pb n="167" facs="tcp:64301:95"/> neither</hi> materal <hi>nor</hi> immaterial, <hi>ſince by</hi> Creation, <hi>all ſubſtances were ei<g ref="char:EOLhyphen"/>ther the one or the other, had</hi> quan<g ref="char:EOLhyphen"/>titative <hi>parts or had</hi> not. <hi>If</hi> reply <hi>were made that</hi> Chriſts Body <hi>is</hi> mi<g ref="char:EOLhyphen"/>raculouſly preſent <hi>in the</hi> Euchariſt <hi>by way of</hi> ſubſtance, <hi>(as</hi> Aquinas <hi>and</hi> others <hi>ſay it is) not including</hi> mate<g ref="char:EOLhyphen"/>rial <hi>nor</hi> immaterial, <hi>but</hi> abſtracting <hi>from</hi> both; <hi>I would</hi> rejoyn, <hi>and ſay, That the</hi> exiſtence <hi>of</hi> ſuch <hi>a</hi> Being <hi>is (to my apprehenſion)</hi> impoſſible; <hi>for although in</hi> Metaphyſics, Philoſophers <hi>ſpeak</hi> abſtractedly, <hi>firſt of a</hi> ſubſtance, <hi>and afterwards difference it by</hi> corpo<g ref="char:EOLhyphen"/>real <hi>and</hi> incorporeal, <hi>yet ſuch diſcourſe, doth not at all intend or ſuppoſe, that there either is, or can be, a</hi> ſubſtance <hi>really</hi> exiſting, <hi>which is neither of the</hi> two; <hi>no more then from ſay<g ref="char:EOLhyphen"/>ing</hi> animal eſt rationale, vel irrati<g ref="char:EOLhyphen"/>onale, <hi>it can be preſum'd, that an</hi> ani<g ref="char:EOLhyphen"/>mal <hi>doth or may poſſibly</hi> exiſt <hi>and be neither</hi> man <hi>nor</hi> brute. <hi>The deſign
+<pb n="168" facs="tcp:64301:96"/> of inventing ſuch general words as</hi> ſubſtantia, animal, homo, <hi>was not to make</hi> ſigns <hi>of any</hi> real <hi>or</hi> poſſible <hi>Being to be ſignified by them, but to</hi> contract, <hi>and</hi> abbreviate <hi>mens diſcourſe for the more</hi> ready <hi>under<g ref="char:EOLhyphen"/>ſtanding of one another; as for In<g ref="char:EOLhyphen"/>ſtance, when we would ſignify in ſhort, that</hi> Peter, James, John, <hi>and</hi> every other individual <hi>perſon in the world is of the</hi> ſame nature, <hi>to wit, a</hi> creature compounded of ſoul and body endued with ſenſe and Reaſon, <hi>a word is fram'd to</hi> comprehend <hi>and</hi> import <hi>all that, which is,</hi> Homo, Man; <hi>and then we affirm of</hi> Peter, <hi>of</hi> James, <hi>of</hi> John <hi>&amp;c. that he is a</hi> Man <hi>in ſtead of ſaying he is a</hi> Creature compounded of Soul and Body, endued with Senſe and Reaſon. <hi>When again it is obſerv'd wherein</hi> Peter, James, John, <hi>&amp;c. agree with</hi> every ſingular Brute, <hi>a word is devis'd to</hi> denote <hi>that</hi> agree<g ref="char:EOLhyphen"/>ment, <hi>to wit,</hi> animal. <hi>And ſince it is
+<pb n="169" facs="tcp:64301:96"/> found that not only all theſe, but that alſo</hi> every corporeal <hi>and</hi> ſpiritual Thing <hi>whatſoever accords together in this, that they have a</hi> Being ſubſiſting of it ſelf, <hi>a word is us'd to ſhew that, which is</hi> ſubſtantia <hi>a</hi> ſubſtance; <hi>to avoid therefore the trouble of ſay<g ref="char:EOLhyphen"/>ing,</hi> Peter, James, John <hi>&amp;c.</hi> this horſe, bird, fiſh, <hi>&amp;c. is a</hi> Thing that has a Being of it ſelf, <hi>we contract it into this,</hi> Peter, James, <hi>&amp;c.</hi> this horſe, bird, fiſh <hi>is a</hi> ſubſtance; <hi>ſince then we ſee, that a Subſtance</hi> abſtra<g ref="char:EOLhyphen"/>ctedly <hi>taken, is not only</hi> void, <hi>but even</hi> incapable <hi>of</hi> all <hi>kind of</hi> exiſtence, <hi>to ſay,</hi> Chriſts Body <hi>is preſent in the</hi> bleſſed Sacrament <hi>after the</hi> manner <hi>of a</hi> Subſtance, <hi>is to the ſame effect, as to ſay, That it is neither</hi> corpore<g ref="char:EOLhyphen"/>ally, <hi>nor</hi> incorporeally <hi>there preſent, that is, in verity not at all. But ſup<g ref="char:EOLhyphen"/>poſe we that</hi> Chriſts Body <hi>were pre<g ref="char:EOLhyphen"/>ſent in the</hi> Euchariſt <hi>without</hi> exten<g ref="char:EOLhyphen"/>ſion, <hi>and no other ſubſtance for the</hi>
+                  <pb n="170" facs="tcp:64301:97"/> Accidents <hi>of Bread and Wine to</hi> ſub<g ref="char:EOLhyphen"/>ſiſt <hi>in; the</hi> Accidents, <hi>in ſuch a caſe, muſt either ſubſiſt in</hi> Chriſts Body, <hi>and ſo</hi> extenſion <hi>be in a</hi> Subject un<g ref="char:EOLhyphen"/>extended, <hi>which is plainly</hi> contradi<g ref="char:EOLhyphen"/>ctory; <hi>or els, they muſt ſubſiſt of</hi> themſelves <hi>without a</hi> Subject, <hi>which is equally</hi> impoſſible; <hi>for if we duly reflect, we ſhall find, That an</hi> Acci<g ref="char:EOLhyphen"/>dent <hi>is not any</hi> Thing <hi>really diffe<g ref="char:EOLhyphen"/>ring from it's</hi> Subject, <hi>but a</hi> meer Mode <hi>only, or</hi> manner <hi>of it's</hi> Being, <hi>or an</hi> appearance <hi>of the</hi> Subject, <hi>un<g ref="char:EOLhyphen"/>der ſome</hi> particular <hi>conſideration, as will (I think) by the following In<g ref="char:EOLhyphen"/>ſtance evidently be ſeen; Take a piece of</hi> Paſte, <hi>and mold it into ſe<g ref="char:EOLhyphen"/>veral</hi> forms <hi>one after another, making it now</hi> long, <hi>then</hi> round, <hi>afterward</hi> ſquare, <hi>and twill be no</hi> thing <hi>all the while, but the very</hi> ſame Paſte <hi>ſtill, under various</hi> appearances, <hi>which for</hi> diſtinction <hi>ſake, we give different</hi> ap<g ref="char:EOLhyphen"/>pellations <hi>to; ſo that to ſuppoſe</hi>
+                  <pb n="171" facs="tcp:64301:97"/> length, roundneſs, ſquareneſs, <hi>(or</hi> long, round, ſquare, <hi>take whether we pleaſe) really to</hi> exiſt, <hi>without ſome</hi> Thing <hi>which we denomintate</hi> long, round, ſquare, <hi>is to ſuppoſe the</hi> meer mode <hi>of a</hi> Thing, <hi>not to be the</hi> meer mode <hi>of a</hi> Thing, <hi>but a</hi> Thing <hi>of it</hi> ſelf, <hi>which is utterly</hi> impoſſible. <hi>Many ſtrange</hi> incredible <hi>things beſide would follow, upon the ſuppoſal of the</hi> Ac<g ref="char:EOLhyphen"/>cidents <hi>ſubſiſting without a</hi> Subject, <hi>as that</hi> they <hi>are apt to do and ſuffer all things, which the</hi> Bread <hi>and</hi> Wine <hi>before their Tranſubſtantiation were liable unto; as to nouriſh the Body, to be broken, to be ſplit, to be cor<g ref="char:EOLhyphen"/>rupted, to be turn'd into aſhes, ſmoke, &amp;c. which ſeem to involve in them</hi> a contradiction <hi>alſo, in that a</hi> meer accident, <hi>which is</hi> nothing, <hi>ſhould do and ſuffer</hi> ſomething.</p>
+            </div>
+            <div n="12" type="section">
+               <pb n="172" facs="tcp:64301:98"/>
+               <head>
+                  <hi>SECT. XII.</hi> That the Holy Scripture, <hi>or</hi> Writ<g ref="char:EOLhyphen"/>ten Word of God, is the Rule of Chriſtian Faith. That Tra<g ref="char:EOLhyphen"/>dition is the beſt, and ſafeſt way and means, whereby to attain to the certain knowledge thereof. That the Multitude, or weakeſt ſort of Chriſtians are not able of themſelves, without the help of others, to reſolve Faith aright, or be rationally aſſur'd, what the Doctrine of Salvation is.</head>
+               <p>
+                  <hi>NOw, at length, having maſter'd all the difficulties in my Way; I ſee nothing of moment to obſtruct or hinder me, why I may not from
+<pb n="173" facs="tcp:64301:98"/> the premis'd Diſcourſe ſecurely in<g ref="char:EOLhyphen"/>ferr, That the</hi> Sacred Scripture, <hi>(i. e.</hi> Such places <hi>of it as</hi> contain <hi>the</hi> ne<g ref="char:EOLhyphen"/>ceſſario credenda, <hi>and</hi> agenda <hi>of</hi> Chriſts Goſpel) <hi>is the</hi> Rule of Chriſtian Faith; <hi>yet ſo, as that without the help of</hi> Tradition, <hi>it can neither be known to be the</hi> Word <hi>of</hi> God; <hi>nor when, in general, 'tis known ſo to be, any</hi> rational <hi>aſſurance can be had, That the</hi> Texts <hi>containing the</hi> Neceſſaries <hi>to</hi> Salvation, <hi>remain</hi> uncorrupt, <hi>but by the ſame</hi> Tradition; <hi>nor laſtly, That thoſe</hi> Neceſſaries <hi>to</hi> Salvation, <hi>can be manifeſted</hi> what <hi>they</hi> are, <hi>ſave as</hi> Tradition <hi>guides unto, and gives notice of them. All which, if I have been clear in the proof of, he that goes about to ſeek for the</hi> Rule <hi>of</hi> Faith <hi>and makes not</hi> Tradition <hi>his</hi> chief <hi>and</hi> beſt Aſſiſtant, <hi>ſhall never have any</hi> rational <hi>ground of</hi> certainty, <hi>that he has met with it, and</hi> explicitly <hi>knows the</hi> Contents <hi>of
+<pb n="174" facs="tcp:64301:99"/> it, even though perchance he have really and indeed found it and per<g ref="char:EOLhyphen"/>adventure</hi> explicitly <hi>believes whatſo<g ref="char:EOLunhyphen"/>ever is contain'd in it.</hi>
+               </p>
+               <p>
+                  <hi>If it be ſo difficult a thing, as it ſeems to be, by what hath been ſayd, to</hi> reſolve Faith <hi>aright, or to make ſuch uſe of</hi> Scripture, <hi>as to be</hi> cer<g ref="char:EOLhyphen"/>tainly <hi>inform'd by it of</hi> Chriſts Do<g ref="char:EOLhyphen"/>ctrin, <hi>without danger of</hi> erring <hi>or being</hi> miſtaken, <hi>it might be de<g ref="char:EOLhyphen"/>manded, how the</hi> generality <hi>of</hi> Chri<g ref="char:EOLhyphen"/>ſtians <hi>ſhould be able of</hi> themſelves <hi>to do it. True, but ſuch demand, as it would be reaſonable and per<g ref="char:EOLhyphen"/>tinent if the</hi> Multitude <hi>were oblig'd to learn the</hi> Chriſtian Religion <hi>of</hi> themſelves, immediatly <hi>from</hi> Scri<g ref="char:EOLhyphen"/>pture; <hi>ſo on the contrary, if they have no obligation to do it, 'tis nei<g ref="char:EOLhyphen"/>ther the one nor the other. And that no ſuch obligation lies upon them, the</hi> unpracticableneſs <hi>(to ſay no worſe) of the thing, manifeſted in
+<pb n="175" facs="tcp:64301:99"/> the</hi> ſixt Section <hi>of this</hi> Treatiſe, <hi>ſuffici<g ref="char:EOLhyphen"/>ently teſtifies. We muſt then, would ſome ſay,</hi> pin <hi>(it ſeems) our</hi> Faith <hi>on</hi> others ſleeves. <hi>To wave that</hi> cata<g ref="char:EOLhyphen"/>chreſtical <hi>effeminate ſpeech, let's put the</hi> Queſtion <hi>more manlike and fairly thus, Whether the</hi> generality <hi>of the People muſt not of neceſſity rely on</hi> others Learning <hi>and</hi> Fidelity, <hi>in com<g ref="char:EOLhyphen"/>ming to the</hi> knowledge <hi>of</hi> Chriſts Doctrin; <hi>And my</hi> Anſwer <hi>then is, That there is no poſſible way of a<g ref="char:EOLhyphen"/>volding it without a continued</hi> Mi<g ref="char:EOLhyphen"/>racle <hi>of</hi> immediat Revelation, <hi>but that moſt certainly they muſt, and 'twas and ever will be ſo. For</hi> firſt, <hi>if we look back towards the begining of the</hi> Goſpel, <hi>we ſhall find that the</hi> New Teſtament <hi>was writ by the</hi> Apoſtles <hi>and</hi> Evangeliſts <hi>in</hi> Greek, <hi>which</hi> Tongue, <hi>though granted to have been the moſt generally known of any</hi> one, <hi>then in the</hi> Eaſtern Parte, <hi>yet, that every third</hi> Chriſtian <hi>under<g ref="char:EOLhyphen"/>ſtood
+<pb n="176" facs="tcp:64301:100"/> that</hi> Language, <hi>is not at all to be thought on.</hi> Secondly, <hi>Nor was the</hi> Scripture <hi>preſently</hi> Tranſlated <hi>in<g ref="char:EOLhyphen"/>to every</hi> Tongue, <hi>where there were thoſe who imbrac'd</hi> Chriſtianity. Thirdly, <hi>Neither could poor</hi> Mecha<g ref="char:EOLhyphen"/>nicks, Labourers, Servants, <hi>and</hi> Slaves <hi>procure it, when</hi> Tranſlated, <hi>before the ready way of</hi> Printing <hi>was In<g ref="char:EOLhyphen"/>vented; becauſe, 'twas not formerly a little money that would buy both, or even one of the</hi> Teſtaments. Fourth<g ref="char:EOLhyphen"/>ly, <hi>Neither yet, if</hi> all Chriſtians <hi>had had wherewith to buy, would there have been, till the</hi> Art <hi>of</hi> Printing <hi>was found,</hi> Books <hi>enough for half, or a quarter of them.</hi> Fifthly, <hi>Suppoſe we now, that by means of the</hi> Preſs, <hi>every one has, or might have, a</hi> Bible <hi>in their</hi> native Tongue; <hi>How is it poſſible, that the</hi> vulgar <hi>ſhould know of</hi> themſelves <hi>that it is the</hi> Word <hi>of</hi> God? <hi>that it has been kept free from</hi> corruption <hi>in things of</hi> neceſſary Be<g ref="char:EOLhyphen"/>lief
+<pb n="177" facs="tcp:64301:100"/> 
+                  <hi>and</hi> Practice? <hi>that it is</hi> faith<g ref="char:EOLhyphen"/>fully <hi>Tranſlated out of the</hi> Originals? <hi>that conſidering what variety of</hi> Do<g ref="char:EOLhyphen"/>ctrins <hi>are in it; and in how many places diſpers'd, they ſhould be able, and at leiſure, to cull out of it a</hi> Sum<g ref="char:EOLhyphen"/>mary <hi>of</hi> Fundamentals, <hi>(in caſe the thing it ſelf were attainable without other helps beſides</hi> Scripture) <hi>ſeeing</hi> millions <hi>of them are neceſſitated to ſpend their whole time almoſt, to get a poor</hi> Livelihood <hi>for themſelves and Families? that they ſhould be able to compare places of</hi> Scripture <hi>ſo ef<g ref="char:EOLhyphen"/>fectually, as rightly to compoſe</hi> ſeem<g ref="char:EOLhyphen"/>ing Contradictions <hi>in</hi> Points <hi>of</hi> Faith, <hi>thereby, when not without difficulty they are got to underſtand, but ordi<g ref="char:EOLhyphen"/>narily well; even plain and common things? Who ſo ſhall ſeriouſly re<g ref="char:EOLhyphen"/>flect on theſe matters, will doubtleſs think it ſtrangely unbecoming Mans moſt</hi> gracious Maker, <hi>and</hi> Redeemer, <hi>to require at the hands of the</hi> poor
+<pb n="178" facs="tcp:64301:101"/> ignorant <hi>people to pick out their</hi> Religion <hi>of</hi> themſelves <hi>from</hi> Holy Scripture, <hi>or to depend upon their own</hi> weak <hi>performances, for finding out the true</hi> ſence <hi>and</hi> interpretation <hi>of it. For (over and above what</hi> has <hi>been already ſhewn for the un<g ref="char:EOLhyphen"/>reaſonableneſs of the thing) after this be firſt well weigh'd, in the balance of ſound</hi> Reaſon, <hi>that the</hi> Multitude <hi>muſt of neceſſity truſt</hi> o<g ref="char:EOLhyphen"/>thers, <hi>for the</hi> truth <hi>of the</hi> Tran<g ref="char:EOLhyphen"/>ſlation <hi>of</hi> Scripture, <hi>let an</hi> irrefra<g ref="char:EOLhyphen"/>gable Reaſon <hi>be given by any that can, why they ſhould not aſwell, and might as ſafely give credit to thoſe for the</hi> ſenſe <hi>of it, who are in</hi> pru<g ref="char:EOLhyphen"/>dence <hi>to be entruſted by reaſon of their</hi> Knowledg <hi>and</hi> Honeſty <hi>for</hi> re<g ref="char:EOLhyphen"/>commending <hi>to them the</hi> ſincerity <hi>of the</hi> Verſion, <hi>ſince 'tis to be preſum'd they underſtand it to be a</hi> true tran<g ref="char:EOLhyphen"/>ſlation <hi>no further, then they know the</hi> ſence <hi>of the</hi> words tranſlated. <hi>Not<g ref="char:EOLhyphen"/>withſtanding
+<pb n="179" facs="tcp:64301:101"/> the plain verity of what has here been ſaid, 'tis not unknown, how frequently and vehemently ſome popular men uſe to cry out to the people from the</hi> Pulpit, <hi>Believe not us, believe the</hi> Scripture, <hi>as if the meaneſt of their</hi> Auditors <hi>were thought by them to be the</hi> proper Judges <hi>of the</hi> Scripture ſenſe, <hi>amongſt the reſt. But though their words ſeem to im<g ref="char:EOLhyphen"/>port as much, if we look to the bot<g ref="char:EOLhyphen"/>tom of the buſineſs, we ſhall diſcover, That even theſe</hi> Preachers <hi>muſt ac<g ref="char:EOLhyphen"/>knowledge, they intend otherwiſe; or els confeſs their deſign in doing it is unlawful. For when they ſay, Believe not</hi> us, <hi>believe the</hi> Scripture; <hi>they either intend the</hi> Texts <hi>they quote for a</hi> Proof <hi>of what they touch, or they do not. If they intend them for a</hi> Proof, <hi>their meaning muſt be this; believe</hi> us, <hi>yet not for our</hi> own <hi>ſakes, but for the</hi> Scriptures; <hi>that is, be<g ref="char:EOLhyphen"/>lieve</hi> us, <hi>becauſe we teach the very</hi>
+                  <pb n="180" facs="tcp:64301:102"/> ſame Doctrine <hi>which the</hi> Scripture <hi>doth; or believe the</hi> Scripture <hi>to the</hi> ſame <hi>intent and purpoſe, or in the</hi> ſame <hi>ſenſe we alledge it, for to be<g ref="char:EOLhyphen"/>lieve it in any</hi> other, <hi>would not have the effect of a</hi> Proof <hi>with them. But if they have no intention to uſe the</hi> Scriptures <hi>they quote to</hi> prove <hi>what they Preach, let them inform us to what other</hi> good <hi>intent they do it, for I cannot think of any. To ſeve<g ref="char:EOLhyphen"/>ral</hi> bad ends, <hi>'tis obvious enough to conceive how it may be done; as out of</hi> covetouſneſs, <hi>or through the deſire of</hi> applauſe, <hi>or for promoting a</hi> faction, <hi>to</hi> humour <hi>and</hi> gratifie <hi>the people they Preach unto. But for none of</hi> theſe <hi>ends will they yield, I am well aſſur'd, they do it; and therefore I ſee no way to avoid it, but that the</hi> Quotations <hi>muſt be granted to be produc'd for</hi> Proofs, <hi>and conſequently, that the perſons uſing them have no real deſign by
+<pb n="181" facs="tcp:64301:102"/> ſaying, beleeve not</hi> us, <hi>beleeve the</hi> Scripture, <hi>that the</hi> truth <hi>of their</hi> Do<g ref="char:EOLhyphen"/>ctrine <hi>ſhould ſtand, or fall, accordingly as their</hi> Auditors <hi>judge it conſonant, or diſagreeing to the</hi> places <hi>of</hi> Holy Writ <hi>which they're directed to, for</hi> examination <hi>and</hi> tryal <hi>of the</hi> verity <hi>of what their</hi> Teachers <hi>deliver, as they themſelves often (I beleeve) appre<g ref="char:EOLhyphen"/>hend; but for</hi> Proof <hi>and</hi> confirma<g ref="char:EOLhyphen"/>tion <hi>indeed of the</hi> Doctrine <hi>taught, according to the intendment of the</hi> Preacher.</p>
+               <p>
+                  <hi>Some perhaps would here be en<g ref="char:EOLhyphen"/>courag'd to aſſert, that this which I have laſt diſcours'd, concerning</hi> Holy Writ, (viz. <hi>that the</hi> Multi<g ref="char:EOLhyphen"/>tude <hi>cannot without better help then their own, make right uſe of</hi> Scri<g ref="char:EOLhyphen"/>pture, <hi>as 'tis the</hi> Rule of Faith) <hi>makes for</hi> Oral Tradition, <hi>which inſtructs every one from the</hi> Prince <hi>to the</hi> Peaſant <hi>in all the</hi> Articles <hi>of</hi> Chri<g ref="char:EOLhyphen"/>ſtian Faith. <hi>To ſuch I ſhould anſwer,
+<pb n="182" facs="tcp:64301:103"/> That</hi> Tradition <hi>could no more be made uſe of as the</hi> Rule of Faith <hi>(ſuppoſing it were ſo) by the Peo<g ref="char:EOLhyphen"/>ple, without the aſſiſtance of ſome more</hi> skilful <hi>then themſelves, then</hi> Scripture <hi>can. For</hi> firſt, <hi>They muſt truſt</hi> others, <hi>that what they are in<g ref="char:EOLhyphen"/>ſtructed in by their</hi> immediat <hi>Teach<g ref="char:EOLhyphen"/>ers, is the</hi> ſenſe <hi>of the</hi> preſent Ca<g ref="char:EOLhyphen"/>tholick Church. Secondly, <hi>They muſt have it from better</hi> Arguments <hi>then themſelves can frame, That the</hi> Do<g ref="char:EOLhyphen"/>ctrine <hi>of the</hi> preſent Church <hi>is the very</hi> ſame <hi>with the</hi> Doctrine <hi>of the</hi> Church <hi>in</hi> all foregoing Ages <hi>ſince</hi> Chriſt. Thirdly, <hi>They muſt beleeve</hi> others, That Tradition <hi>is the</hi> alone Rule of Faith, <hi>for the</hi> Multitude <hi>(I may ſafely ſay) is not ſo quick ſighted, as clearly to ſee, that there's no</hi> other <hi>way to come to a right knowledge of</hi> Chriſts Doctrine, <hi>but by an</hi> Oral Delivery <hi>of it. So that in fine, I am much aſſur'd, That the</hi> Rule of Faith
+<pb n="183" facs="tcp:64301:103"/> 
+                  <hi>was never intended by</hi> God <hi>for the</hi> Multitude <hi>to reſolve</hi> immediatly <hi>of</hi> themſelves <hi>the</hi> Chriſtian Faith <hi>into; and that therefore the</hi> Deſtinction <hi>of</hi> Eccleſia docens, &amp; diſcens <hi>is good, yea, neceſſary to be</hi> practically <hi>main<g ref="char:EOLhyphen"/>tain'd and upheld among</hi> Chriſtians; <hi>To the</hi> former <hi>of which (I mean the</hi> Eccleſia docens) <hi>conſiſting of</hi> Prelats <hi>and</hi> Paſtors, <hi>the</hi> Depoſitum, <hi>or</hi> Rule of Faith, <hi>is</hi> principally <hi>(not</hi> ſolely, <hi>be<g ref="char:EOLhyphen"/>cauſe it is lawful for any to make good uſe of it that can) entruſted; for that in reaſon, the</hi> Clergy <hi>is juſt<g ref="char:EOLhyphen"/>ly preſum'd to be fitteſt, both for</hi> Skill <hi>and</hi> Will, <hi>to underſtand it</hi> aright, <hi>and to employ it to it's</hi> due End, <hi>whilſt they can want no</hi> Helps <hi>poſſi<g ref="char:EOLhyphen"/>ble to be had for gaining the</hi> true ſenſe <hi>of it; and that it is the</hi> Main <hi>of their</hi> Employ, <hi>for which they are called to their</hi> Sacred Office, <hi>to uſe and exerciſe the ſame to it's</hi> proper End; <hi>whereas</hi> others, <hi>generally ſpeak<g ref="char:EOLhyphen"/>ing
+<pb n="184" facs="tcp:64301:104"/> neither, have the</hi> like <hi>aduantages to underſtand it as it ought to be, nor ſo</hi> great <hi>Motives and Obligation to promote the true</hi> intendment <hi>and</hi> de<g ref="char:EOLhyphen"/>ſign <hi>thereof.</hi>
+               </p>
+               <p>
+                  <hi>Have not then the People, even every particular perſon of them, it might well be ask'd, a</hi> Judgement <hi>of</hi> Diſcretion <hi>in the choice and mat<g ref="char:EOLhyphen"/>ters of</hi> Religion? <hi>If by</hi> Judgement <hi>of</hi> Diſcretion <hi>be meant, That they are to do nothing, but what they themſelves</hi> approve <hi>of; I readily yield they have. But in caſe they ſet them<g ref="char:EOLhyphen"/>ſelves to</hi> oppoſe <hi>their</hi> own <hi>Judgement to the Judgment of the</hi> Clergy <hi>in</hi> Matters <hi>of</hi> Faith, <hi>their</hi> Judgment <hi>will be found a</hi> Judgment <hi>of into<g ref="char:EOLhyphen"/>lerable and pernitious</hi> Indiſcretion. <hi>For to make a true diſcovery of an</hi> Error <hi>in</hi> Faith, <hi>the</hi> Rule of Faith <hi>muſt be well conſulted, and the</hi> Point <hi>in</hi> queſtion <hi>duly</hi> apply'd <hi>to't, to be</hi> try'd <hi>by it; ſo that if either the</hi> Rule
+<pb n="185" facs="tcp:64301:104"/> 
+                  <hi>it ſelf be</hi> miſtaken, <hi>or the</hi> Thing <hi>to be</hi> regulated <hi>by it, be not</hi> rightly <hi>ap<g ref="char:EOLhyphen"/>ply'd, no</hi> Doctrine <hi>concerning</hi> Faith <hi>can</hi> rationally <hi>be diſcover'd, whether it be an</hi> Error, <hi>or a</hi> Truth. <hi>And 'tis ridiculouſly abſurd, to think, that the vulgar ſort conſiſting of Servants, Labourers, Mechanicks, and others, generally buſied and ſpending their days about</hi> Temporal <hi>affairs, ſhould be</hi> more <hi>ſufficient, and able, to un<g ref="char:EOLhyphen"/>derſtand the</hi> Rule of Faith <hi>aright, and to apply things doubted of there<g ref="char:EOLhyphen"/>to, ſo as truely to determine of their</hi> rectitude <hi>or</hi> obliquity <hi>by it, then the grave and Learned</hi> Prelats, <hi>with the profound</hi> Doctors, <hi>and</hi> others <hi>of the more</hi> Ancient <hi>and</hi> Reverend Divines, <hi>who have ſpent many of them</hi> thirty, <hi>ſeveral of them</hi> fourty, <hi>and ſome a<g ref="char:EOLhyphen"/>mongſt them</hi> fifty <hi>years, or more, in the ſtudy (for the moſt part) of</hi> ſa<g ref="char:EOLhyphen"/>cred Learning, <hi>being legally alſo call'd to the</hi> Office <hi>of</hi> teaching <hi>and</hi>
+                  <pb n="186" facs="tcp:64301:105"/> directing <hi>Mankind as</hi> Chriſtian, <hi>by a</hi> Miſſion <hi>ſucceſſively deriv'd from</hi> Chriſt <hi>and his</hi> Apoſtles, <hi>which none beſides the</hi> Clergy, <hi>how Learned or Pious ſoever, can juſtly make claim to. Would it not then aſtoniſh, and work compaſſion in any man of ſo<g ref="char:EOLhyphen"/>briety, to ſee the ignorant people groſsly miſled, to believe, They are able enough of</hi> themſelves <hi>to under<g ref="char:EOLhyphen"/>ſtand the</hi> Scripture, in all things ne<g ref="char:EOLhyphen"/>ceſſary to Salvation, <hi>when as 'tis</hi> prin<g ref="char:EOLhyphen"/>cipally <hi>for inſtructing them aright in</hi> thoſe very things, <hi>and keeping them to the due obſervance of</hi> them, <hi>that they have</hi> ſpiritual Guides <hi>and</hi> Go<g ref="char:EOLhyphen"/>vernours <hi>ſet over them by</hi> God, <hi>and his</hi> Holy Church? <hi>Which yet they are many of them poor ſouls, being ſtrangely infatuated with a conceit of their own endowments, ſo farr from having any regard to, that although they dayly ſee before their eyes, That the</hi> wiſe <hi>and</hi> gracious God, <hi>in
+<pb n="187" facs="tcp:64301:105"/> the</hi> Oeconomy <hi>of his great</hi> Family, <hi>the World, has provided and placed ſeveral men</hi> skill'd <hi>in ſeveral things; ſome in</hi> Civil Government, <hi>ſome in</hi> Laws, <hi>ſome in</hi> Phyſick, <hi>and others in</hi> other Profeſſions, <hi>all for the</hi> Good <hi>of the</hi> Community <hi>in aſſiſting men in thoſe things, wherein they are pre<g ref="char:EOLhyphen"/>ſum'd not to have</hi> skill enough <hi>to do the</hi> beſt <hi>for themſelves; yet never<g ref="char:EOLhyphen"/>theleſs, they will not underſtand and diſcern a neceſſity of ſome</hi> skilfuller <hi>then they themſelves be, to adviſe, direct, and order them in thoſe</hi> grand <hi>Matters, which are of more</hi> Weigh<g ref="char:EOLhyphen"/>ty <hi>and</hi> luſting <hi>Concern to them, then</hi> all <hi>the things in the whole World beſides; but in contradicti<g ref="char:EOLhyphen"/>on to the</hi> Analogy <hi>of</hi> Providence <hi>ſeen round about them, deſpiſeing thoſe, who ought to have the</hi> over<g ref="char:EOLhyphen"/>ſight <hi>of their</hi> Belief <hi>and</hi> Manners, <hi>make</hi> themſelves <hi>their own</hi> Inſtru<g ref="char:EOLhyphen"/>ctors <hi>and</hi> Rulers <hi>in the Learning and
+<pb n="188" facs="tcp:64301:106"/> Management of thoſe things, wherein if they</hi> finally <hi>miſcarry, they are ruin'd to</hi> eternity.</p>
+            </div>
+            <div n="13" type="section">
+               <head>
+                  <hi>SECT. XIII.</hi> The harme that may ariſe to the <hi>Church,</hi> from the belief of an Error not-Fundamental, to be an Article of Faith. The true ſtating of the difference, between the Church of <hi>England,</hi> and the Church of <hi>Rome.</hi> Whether or no the Church of <hi>England</hi> be juſtly accus'd of criminal Schiſm? That the joynt Concurrence of Scripture, and Oral Tradition, (or the practical Delivery of
+<pb n="189" facs="tcp:64301:106"/> Chriſt Doctrine) was recommend<g ref="char:EOLhyphen"/>ed by the Apoſtles to the Church; the Reſtauration of which Con<g ref="char:EOLhyphen"/>currence ('tis humbly conceiv'd) would be a firm Foundation for re-uniting diſſenting Chriſtians in Matters of Religion; and the Continuance of it a laſting Means for perpetuating Chri<g ref="char:EOLhyphen"/>ſtianity <hi>in 'its</hi> ancient native Purity.</head>
+               <p>
+                  <hi>I have now only one</hi> Scruple <hi>more remaining, concerning</hi> Matters <hi>of</hi> Faith, <hi>and it ariſes from what my ſelf concluded before, which was, That no</hi> Fundamental Error <hi>could ever get a</hi> ſetled footing <hi>without diſ<g ref="char:EOLhyphen"/>turbance, but ſhould perpetually meet with</hi> oppoſition <hi>from</hi> Orthodox Chri<g ref="char:EOLhyphen"/>ſtians, <hi>ſo that</hi> all neceſſary Truths, <hi>ſhall be continually nouriſh'd in the</hi> Boſom <hi>of the</hi> viſible Church. <hi>In
+<pb n="190" facs="tcp:64301:107"/> which if I have ſaid right, what</hi> harm, <hi>may it with great appearance of reaſon be ask'd, can be found to accrew upon it, if an</hi> Error, not fundamental <hi>chance to creep into the</hi> Church, <hi>and grow by degrees to be held at length an</hi> Article <hi>of</hi> Faith, <hi>ſeeing the</hi> belief <hi>thereof is not in</hi> it's ſelf <hi>deſtructive of</hi> Salvation? <hi>I anſwer, there is this great harm in it, if no other, that in caſe it at any time come to be</hi> diſcover'd, <hi>and</hi> National Churches <hi>be thereupon di<g ref="char:EOLhyphen"/>vided about it,</hi> one <hi>holding it to be an</hi> Article <hi>of</hi> Faith another <hi>taking it to be an</hi> Erroneous Doctrin, <hi>there will unavoidably a</hi> Schiſm <hi>happen upon it, becauſe that</hi> Church <hi>which thinks it to be an</hi> Article <hi>of</hi> Faith, <hi>will conceive</hi> herſelf <hi>oblig'd to deny</hi> Communion <hi>to the</hi> other, <hi>which re<g ref="char:EOLhyphen"/>jects it as an</hi> Error; <hi>and that</hi> other <hi>which rejects it as an</hi> Error, <hi>muſt needs judge it to be an</hi> heinous Sin,
+<pb n="191" facs="tcp:64301:107"/> 
+                  <hi>to acknowledge and profeſs that</hi> She <hi>beleeves a</hi> Doctrin <hi>to be an</hi> Article <hi>of</hi> Faith, <hi>which in truth</hi> ſhe <hi>holds to be an</hi> Erroneous Opinion; <hi>and yet without ſuch acknowledgment, and anſwerable profeſſion, ſhe cannot be admitted to</hi> Communion <hi>with the</hi> Church, <hi>that believes it to be an</hi> Article <hi>of</hi> Faith. <hi>Upon this very account it is, that the</hi> Diviſions <hi>be<g ref="char:EOLhyphen"/>tween the</hi> Church <hi>of</hi> Rome, <hi>and</hi> Church <hi>of</hi> England, <hi>as to the</hi> Doctrinal Part <hi>of</hi> Religion <hi>are continued; for I find, that the moſt cautious and wary</hi> Vindicators <hi>of the</hi> Engliſh Church <hi>from the</hi> guilt <hi>of</hi> Schiſm, <hi>which the</hi> Romaniſts <hi>inceſſantly ac<g ref="char:EOLhyphen"/>cuſe</hi> her <hi>of, allege in excuſe for her</hi> Separation, <hi>that the</hi> Church of Rome <hi>requires as</hi> neceſſary Conditions of her Communion, the acknowledgment of ſome erroneous Doctrins to be Articles of Faith, together with a publick profeſſion of them; which Do<g ref="char:EOLhyphen"/>ctrins,
+<pb n="192" facs="tcp:64301:108"/> although not damnable in their own nature, becauſe not directly repug<g ref="char:EOLhyphen"/>nant to any Fundamental Truth, yet would become damnable to thoſe who judging them to be Errors, ſhould acknowledge and profeſs them, con<g ref="char:EOLhyphen"/>trary to their Judgments, to be Ar<g ref="char:EOLhyphen"/>ticles of Faith. <hi>To this purpoſe writes the learned</hi> Biſhop Montague, <hi>the renowned</hi> Arch-Biſhop Laud, Doctor Ferne, Doctor Hammond, <hi>the late</hi> Lord Primat <hi>of</hi> Ireland Biſhop Bramhal, <hi>with</hi> others, <hi>whereunto I'le add one</hi> Cantrovertiſt <hi>more, of the preſent time,</hi> Doctor Stillingfleet, <hi>of which two laſt mentioned (not to multiply needleſs</hi> quotations <hi>about a thing ſo well known I'le here tran<g ref="char:EOLhyphen"/>ſcribe two</hi> Paſſages; It was not <hi>(ſaith the learned</hi> Primate) the erro<g ref="char:EOLhyphen"/>neous Opinions of the Church of Rome, but the obtruding them by Laws upon other Churches, which warranted a ſeparation. Biſhop Bramhals Vin<g ref="char:EOLhyphen"/>dication
+<pb n="193" facs="tcp:64301:108"/> againſt <hi>Mr.</hi> Baxter, Pag: 101. This is clearly the ſtate of the difference, <hi>(ſaith Doctor</hi> Stillingfleet) between the Church of <hi>Rome,</hi> and Church of <hi>England.</hi> The Church of <hi>Rome</hi> impoſeth new Articles of Faith to be believ'd as neceſſary to Salvation, as appears, &amp;c. But the Church of <hi>England</hi> makes no Arti<g ref="char:EOLhyphen"/>cles of Faith, but ſuch as have the Teſtimony and Approbation of the whole Cbriſtian World of all Ages; and are acknowledg'd to be ſuch by <hi>Rome</hi> it ſelf, and in other things ſhe requires ſubſcription, not as Ar<g ref="char:EOLhyphen"/>ticles of Faith, but as inferiour Truths, which She expects a ſubmiſ<g ref="char:EOLhyphen"/>ſion to, in order to her peace and tranquillity: <hi>Thus the ingenious</hi> Do<g ref="char:EOLhyphen"/>ctor <hi>in his</hi> Rational account of the Grounds of Proteſtant Religion, Pag. 54. <hi>The</hi> Church <hi>of</hi> England <hi>then by this, holding nothing to be an</hi>
+                  <pb n="194" facs="tcp:64301:109"/> Article of Faith, <hi>but what</hi> Rome <hi>it ſelf acknowledges to be</hi> ſo; <hi>it's evident; That if the</hi> Church <hi>of</hi> England <hi>believe all the</hi> Articles <hi>of</hi> Catholick Faith, <hi>as</hi> ſhe <hi>profeſſes</hi> ſhe <hi>doth, the</hi> Church <hi>of</hi> Rome <hi>does like<g ref="char:EOLhyphen"/>wiſe the ſame; and conſequently, ſince every</hi> Fundamental Truth <hi>is an</hi> Article <hi>of</hi> Catholick Faith, <hi>that</hi> ſhe <hi>believes</hi> all Fundamental Truths, <hi>no leſs then the</hi> other <hi>doth. So that the true and real difference between thoſe two</hi> Churches, <hi>is not about</hi> Fundamentals, <hi>but</hi> Superſtructures, <hi>which if they be</hi> Errors; <hi>or</hi> any <hi>of them; (as I think ſome of them are prov'd to be in</hi> Sect. 11. <hi>and if it were neceſſary, others, I conceive, might be) the</hi> impoſing <hi>of them as</hi> Articles <hi>of</hi> Faith <hi>by the</hi> Romiſh Church <hi>layes the</hi> guilt <hi>of</hi> Schiſm <hi>at</hi> her <hi>door. But that it ever will be granted by the</hi> Romaniſts, <hi>while they eſteem the</hi> Living Voice <hi>of
+<pb n="195" facs="tcp:64301:109"/> the</hi> Church <hi>the</hi> Rule <hi>of</hi> Faith, <hi>and hold the</hi> Council <hi>of</hi> Trent <hi>to be a true</hi> Repreſentative <hi>of the</hi> Church, <hi>that</hi> ſhe <hi>propoſes any</hi> Errors <hi>as</hi> Ar<g ref="char:EOLhyphen"/>ticles <hi>of</hi> Catholick Faith; <hi>is not to be expected. And that they'l yield to change their pretended</hi> Rule <hi>of</hi> Faith, <hi>there's ſmall encouragement yet to hope, ſince 'tis true aſwell of them, as of too many others, what the rational</hi> Animadverter <hi>up<g ref="char:EOLhyphen"/>on the Pamphlet entituled,</hi> The naked Truth, <hi>rightly obſerves, That</hi> Poli<g ref="char:EOLhyphen"/>tical Authors commonly oppoſe thoſe Paſſages in their Adverſaries Books, which are ready to fall of themſelves, and paſs by thoſe which urge and preſs them harder. <hi>If it were not too truely ſo, 'twould be a matter of great amazement to me, That</hi> Scri<g ref="char:EOLhyphen"/>pture <hi>and</hi> Tradition <hi>ſhould ſtill be cryed up</hi> one <hi>againſt the other, and made to look as if they were at</hi> en<g ref="char:EOLhyphen"/>mity,
+<pb n="196" facs="tcp:64301:110"/> 
+                  <hi>when 'tis manifeſtly clear, that</hi> God <hi>at firſt</hi> joyn'd <hi>them</hi> ami<g ref="char:EOLhyphen"/>cably <hi>together, in that the</hi> Bleſſed Apoſtles <hi>and</hi> Evangeliſts <hi>recom<g ref="char:EOLhyphen"/>mended the</hi> Holy Goſpel, <hi>or</hi> Reve<g ref="char:EOLhyphen"/>lation <hi>of</hi> Jeſus Chriſt <hi>the</hi> Son <hi>of</hi> God, <hi>both in</hi> Writing, <hi>and by an</hi> Oral Delivery, <hi>and</hi> practical Profeſ<g ref="char:EOLhyphen"/>ſion <hi>of it to the World, deſigning them, no doubt, to go hand in hand for Inſtructing, Confirming, and Re<g ref="char:EOLhyphen"/>gulating Men in the</hi> Belief <hi>and</hi> Pra<g ref="char:EOLhyphen"/>ctice <hi>of</hi> Chriſtianity, <hi>till the end of all things. And therefore, till their joynt</hi> Concurrence <hi>be reſtor'd to the</hi> Church, <hi>I ſee not what great</hi> Good <hi>we can rationally expect by</hi> Contro<g ref="char:EOLhyphen"/>verſie; <hi>whereas, if due reſpect and regard were had to</hi> both, <hi>the Iſſue and Event thereof would, as it appears in reaſon to me, be this, That</hi> no<g ref="char:EOLhyphen"/>thing <hi>father'd on</hi> Scripture <hi>could be aſſented to, and receiv'd as a</hi> Ca<g ref="char:EOLhyphen"/>tholick
+<pb n="197" facs="tcp:64301:110"/> Point <hi>of</hi> Faith, <hi>unleſs there were likewiſe found a</hi> practical Tra<g ref="char:EOLhyphen"/>dition <hi>of it in the</hi> Church; <hi>nor</hi> any Doctrine <hi>be taken and held for a</hi> Catholick Tradition, <hi>but what was evidently ſeen by the</hi> Chief <hi>of the</hi> Clergy <hi>at leaſt, to have a real Ground in</hi> Holy Writ; <hi>whence the</hi> Chri<g ref="char:EOLhyphen"/>ſtian Religion <hi>('tis humbly conceiv'd) might be in a certain way (when<g ref="char:EOLhyphen"/>ſoever</hi> Intereſt <hi>or</hi> Paſſion <hi>prevented not) to be ſecur'd from</hi> Error <hi>and the</hi> Church <hi>from</hi> Schiſm.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
